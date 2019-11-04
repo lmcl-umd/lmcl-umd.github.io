@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aphasia | LMCL</title>
+    <link>/tags/aphasia/</link>
+      <atom:link href="/tags/aphasia/index.xml" rel="self" type="application/rss+xml" />
+    <description>aphasia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/lsc_logo.png</url>
+      <title>aphasia</title>
+      <link>/tags/aphasia/</link>
+    </image>
+    
+    <item>
+      <title>Lexical overlap increases syntactic priming in aphasia independently of short-term memory abilities: Evidence against the explicit memory account of the lexical boost</title>
+      <link>/publication/pub8/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pub8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic agreement attraction reflects short-term memory processes</title>
+      <link>/publication/pub16/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pub16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

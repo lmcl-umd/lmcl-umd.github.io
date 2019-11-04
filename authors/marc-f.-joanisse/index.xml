@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc F. Joanisse | LMCL</title>
+    <link>/authors/marc-f.-joanisse/</link>
+      <atom:link href="/authors/marc-f.-joanisse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc F. Joanisse</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/lsc_logo.png</url>
+      <title>Marc F. Joanisse</title>
+      <link>/authors/marc-f.-joanisse/</link>
+    </image>
+    
+    <item>
+      <title>Speech perception, rapid temporal processing, and the left hemisphere: A case study of unilateral pure word deafness</title>
+      <link>/publication/pub34/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/pub34/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

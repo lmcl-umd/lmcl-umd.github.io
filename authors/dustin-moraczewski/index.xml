@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dustin Moraczewski | LMCL</title>
+    <link>/authors/dustin-moraczewski/</link>
+      <atom:link href="/authors/dustin-moraczewski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dustin Moraczewski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/lsc_logo.png</url>
+      <title>Dustin Moraczewski</title>
+      <link>/authors/dustin-moraczewski/</link>
+    </image>
+    
+    <item>
+      <title>Separable neural representations of sound sources: Speaker identity and musical timbres</title>
+      <link>/publication/pub5/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pub5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

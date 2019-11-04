@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab Manual | LMCL</title>
+    <link>/doc/example/</link>
+      <atom:link href="/doc/example/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lab Manual</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/lsc_logo.png</url>
+      <title>Lab Manual</title>
+      <link>/doc/example/</link>
+    </image>
+    
+    <item>
+      <title>LMCL iMac Computers</title>
+      <link>/doc/example/imacsoftware/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/doc/example/imacsoftware/</guid>
+      <description>
+
+&lt;h2 id=&#34;information-about-the-imac-computers-in-the-lab&#34;&gt;Information about the iMac computers in the lab&lt;/h2&gt;
+
+&lt;p&gt;If you want to update the software on the iMac Computers, you have to first check the compatibility with the version number.&lt;/p&gt;
+
+&lt;p&gt;You can go to The Apple icon in the top left corner &amp;gt; About This Mac&lt;/p&gt;
+
+&lt;p&gt;The model number will tell you when the iMac was released and the version number will tell you what version of OS your computer is running.&lt;/p&gt;
+
+&lt;p&gt;If the computer is running software 10.7 or below, you will have to go online and download and install the next version of software yourself (rather than through the App Store).&lt;/p&gt;
+
+&lt;p&gt;To download El Capitan follow the instructions &lt;a href=&#34;https://support.apple.com/en-us/HT206886&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To download High Sierra follow the instructions &lt;a href=&#34;https://support.apple.com/en-us/HT208969&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Note: if the iMac is version 11,2 (i.e. mid 2010) or earlier, the highest OS you can upgrade to is High Sierra &lt;/b&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Psychopy Tips and Tricks</title>
+      <link>/doc/example/psychopyupdate/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/doc/example/psychopyupdate/</guid>
+      <description>
+
+&lt;h2 id=&#34;how-to-update-to-psychopy3-on-your-computer&#34;&gt;How to update to Psychopy3 on your computer&lt;/h2&gt;
+
+&lt;p&gt;As of 11/1/2019, the standalone package to download Psychopy3 from the &lt;a href=&#34;https://www.psychopy.org/download.html&#34; target=&#34;_blank&#34;&gt;Psychopy website&lt;/a&gt; does not contain the correct dependencies required for using some of the features we need in the LMCL (such as the pyo library for audio and voice keys).&lt;/p&gt;
+
+&lt;p&gt;The work around is to download the source code via the terminal and adjust the dependencies yourself. Instructions for this are outlined on the Psychopy website but require additional manipulation to work in the capacity required for this lab. Additional instructions have been outlined below.&lt;/p&gt;
+
+&lt;h3 id=&#34;for-mac-users&#34;&gt;For Mac users:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OS must be updated to version 10.12 or higher&lt;/li&gt;
+&lt;li&gt;must be running python 3.6 or higher&lt;/li&gt;
+&lt;li&gt;use pip3 to install pyo&lt;/li&gt;
+&lt;li&gt;use pip3 to install pyglet == 1.2.4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After the above is complete can you can:&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;pip3 install psychopy&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;To now open and run psychopy3, open the command line terminal and simply type &amp;ldquo;psychopy&amp;rdquo;&lt;/p&gt;
+
+&lt;h3 id=&#34;for-pc-users&#34;&gt;For PC users:&lt;/h3&gt;
+
+&lt;p&gt;Follow the instructions on the &lt;a href=&#34;https://www.psychopy.org/download.html&#34; target=&#34;_blank&#34;&gt;Psychopy website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

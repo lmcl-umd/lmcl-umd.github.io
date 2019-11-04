@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music cognition | LMCL</title>
+    <link>/tags/music-cognition/</link>
+      <atom:link href="/tags/music-cognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>music cognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/lsc_logo.png</url>
+      <title>music cognition</title>
+      <link>/tags/music-cognition/</link>
+    </image>
+    
+    <item>
+      <title>Music and early language acquisition</title>
+      <link>/publication/pub30/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/pub30/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

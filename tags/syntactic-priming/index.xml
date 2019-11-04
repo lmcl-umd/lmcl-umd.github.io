@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syntactic priming | LMCL</title>
+    <link>/tags/syntactic-priming/</link>
+      <atom:link href="/tags/syntactic-priming/index.xml" rel="self" type="application/rss+xml" />
+    <description>syntactic priming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/lsc_logo.png</url>
+      <title>syntactic priming</title>
+      <link>/tags/syntactic-priming/</link>
+    </image>
+    
+    <item>
+      <title>Lexical overlap increases syntactic priming in aphasia independently of short-term memory abilities: Evidence against the explicit memory account of the lexical boost</title>
+      <link>/publication/pub8/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pub8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To err is human; to structurally prime from errors is also human</title>
+      <link>/publication/pub27/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/pub27/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Language | LMCL</title>
+    <link>/tags/language/</link>
+      <atom:link href="/tags/language/index.xml" rel="self" type="application/rss+xml" />
+    <description>Language</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/lsc_logo.png</url>
+      <title>Language</title>
+      <link>/tags/language/</link>
+    </image>
+    
+    <item>
+      <title>Preserved processing of musical structure in a person with agrammatic aphasia</title>
+      <link>/publication/pub15/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pub15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing structure in language and music: a case for shared reliance on cognitive control</title>
+      <link>/publication/pub23/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pub23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music and early language acquisition</title>
+      <link>/publication/pub30/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/pub30/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

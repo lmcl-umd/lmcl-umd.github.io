@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Review | LMCL</title>
+    <link>/tags/review/</link>
+      <atom:link href="/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <description>Review</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/lsc_logo.png</url>
+      <title>Review</title>
+      <link>/tags/review/</link>
+    </image>
+    
+    <item>
+      <title>Meaning in music and language: Three key differences. Comment on “Towards a neural basis of processing musical semantics” by Stefan Koelsch</title>
+      <link>/publication/pub35/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/pub35/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | LMCL</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/lsc_logo.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Auditory</title>
+      <link>/tags/auditory/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/auditory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive Control</title>
+      <link>/tags/cognitive-control/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/cognitive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetoencephalography</title>
+      <link>/tags/magnetoencephalography/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/magnetoencephalography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Pattern Analysis</title>
+      <link>/tags/multivariate-pattern-analysis/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/multivariate-pattern-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>/tags/music/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>n-back</title>
+      <link>/tags/n-back/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/n-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Perception</title>
+      <link>/tags/object-perception/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/object-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representational Similarity Analysis</title>
+      <link>/tags/representational-similarity-analysis/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/representational-similarity-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stroop</title>
+      <link>/tags/stroop/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/stroop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>working memory updating</title>
+      <link>/tags/working-memory-updating/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/working-memory-updating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>acoustics</title>
+      <link>/tags/acoustics/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/acoustics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>auditory object</title>
+      <link>/tags/auditory-object/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/auditory-object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>auditory perception</title>
+      <link>/tags/auditory-perception/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/auditory-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>environmental sound</title>
+      <link>/tags/environmental-sound/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/environmental-sound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fMRI</title>
+      <link>/tags/fmri/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speaker identification</title>
+      <link>/tags/speaker-identification/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/speaker-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech</title>
+      <link>/tags/speech/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>timbre</title>
+      <link>/tags/timbre/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/timbre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>annotated curriculum vitae</title>
+      <link>/tags/annotated-curriculum-vitae/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/annotated-curriculum-vitae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open science</title>
+      <link>/tags/open-science/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducibility</title>
+      <link>/tags/reproducibility/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research philosophy</title>
+      <link>/tags/research-philosophy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/research-philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aphasia</title>
+      <link>/tags/aphasia/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/aphasia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>implicit learning</title>
+      <link>/tags/implicit-learning/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/implicit-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical boost</title>
+      <link>/tags/lexical-boost/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/lexical-boost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentence production</title>
+      <link>/tags/sentence-production/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/sentence-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>short-term memory</title>
+      <link>/tags/short-term-memory/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/short-term-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntactic priming</title>
+      <link>/tags/syntactic-priming/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/syntactic-priming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grammatical encoding</title>
+      <link>/tags/grammatical-encoding/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/grammatical-encoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lexical retrieval</title>
+      <link>/tags/lexical-retrieval/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/lexical-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntactic choice</title>
+      <link>/tags/syntactic-choice/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/syntactic-choice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntactic formulation</title>
+      <link>/tags/syntactic-formulation/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/syntactic-formulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executive functions</title>
+      <link>/tags/executive-functions/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/executive-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latent variable analysis</title>
+      <link>/tags/latent-variable-analysis/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/latent-variable-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musical training</title>
+      <link>/tags/musical-training/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/musical-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>executive function</title>
+      <link>/tags/executive-function/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/executive-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual differences</title>
+      <link>/tags/individual-differences/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/individual-differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language production</title>
+      <link>/tags/language-production/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/language-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musical ability</title>
+      <link>/tags/musical-ability/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/musical-ability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic agreement</title>
+      <link>/tags/syntactic-agreement/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/syntactic-agreement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working memory</title>
+      <link>/tags/working-memory/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/working-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2015-2016</title>
+      <link>/tags/2015-2016/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/2015-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2016-2017</title>
+      <link>/tags/2016-2017/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/2016-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2017-2018</title>
+      <link>/tags/2017-2018/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/2017-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agrammatism</title>
+      <link>/tags/agrammatism/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/agrammatism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>atonalia</title>
+      <link>/tags/atonalia/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/atonalia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>/tags/language/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical access</title>
+      <link>/tags/lexical-access/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/lexical-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meaning</title>
+      <link>/tags/meaning/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/meaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polysemy</title>
+      <link>/tags/polysemy/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/polysemy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>/tags/syntax/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bilingualism</title>
+      <link>/tags/bilingualism/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/bilingualism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language switching</title>
+      <link>/tags/language-switching/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/language-switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music perception</title>
+      <link>/tags/music-perception/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/music-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musical structure</title>
+      <link>/tags/musical-structure/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/musical-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prosodic structure</title>
+      <link>/tags/prosodic-structure/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/prosodic-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prosody</title>
+      <link>/tags/prosody/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/prosody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech perception</title>
+      <link>/tags/speech-perception/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/speech-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amusia</title>
+      <link>/tags/amusia/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/amusia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>auditory agnosia</title>
+      <link>/tags/auditory-agnosia/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/auditory-agnosia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>environmental sound agnosia</title>
+      <link>/tags/environmental-sound-agnosia/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/environmental-sound-agnosia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musical ambiguity</title>
+      <link>/tags/musical-ambiguity/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/musical-ambiguity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pure word deafness</title>
+      <link>/tags/pure-word-deafness/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/pure-word-deafness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rapid temporal processing</title>
+      <link>/tags/rapid-temporal-processing/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/rapid-temporal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech perception deficits</title>
+      <link>/tags/speech-perception-deficits/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/speech-perception-deficits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retrieval interference</title>
+      <link>/tags/retrieval-interference/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/retrieval-interference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scope of planning</title>
+      <link>/tags/scope-of-planning/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/scope-of-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>errors</title>
+      <link>/tags/errors/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music and language</title>
+      <link>/tags/music-and-language/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/music-and-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musical syntax</title>
+      <link>/tags/musical-syntax/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/musical-syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parsing</title>
+      <link>/tags/parsing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/parsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repairs</title>
+      <link>/tags/repairs/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/repairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>childhood development</title>
+      <link>/tags/childhood-development/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/childhood-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>definition of music</title>
+      <link>/tags/definition-of-music/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/definition-of-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emergent modularity</title>
+      <link>/tags/emergent-modularity/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/emergent-modularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language acquisition</title>
+      <link>/tags/language-acquisition/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/language-acquisition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music cognition</title>
+      <link>/tags/music-cognition/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/music-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musical development</title>
+      <link>/tags/musical-development/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/tags/musical-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>accessibility effects</title>
+      <link>/tags/accessibility-effects/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/tags/accessibility-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>similarity-based interference</title>
+      <link>/tags/similarity-based-interference/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/tags/similarity-based-interference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>/tags/review/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lateralization</title>
+      <link>/tags/lateralization/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/tags/lateralization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critical Word</title>
+      <link>/tags/critical-word/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>/tags/critical-word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garden Path</title>
+      <link>/tags/garden-path/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>/tags/garden-path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pitch Class</title>
+      <link>/tags/pitch-class/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>/tags/pitch-class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic Processing</title>
+      <link>/tags/syntactic-processing/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>/tags/syntactic-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual loop theory</title>
+      <link>/tags/perceptual-loop-theory/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/tags/perceptual-loop-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self monitoring</title>
+      <link>/tags/self-monitoring/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/tags/self-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech errors</title>
+      <link>/tags/speech-errors/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/tags/speech-errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambiguity</title>
+      <link>/tags/ambiguity/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>/tags/ambiguity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homophones</title>
+      <link>/tags/homophones/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>/tags/homophones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>/tags/monitoring/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Referential communication</title>
+      <link>/tags/referential-communication/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>/tags/referential-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2011-2014</title>
+      <link>/tags/2011-2014/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/2011-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2014-2015</title>
+      <link>/tags/2014-2015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/2014-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
