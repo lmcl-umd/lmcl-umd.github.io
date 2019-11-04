@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>repairs | LMCL</title>
-    <link>/tags/repairs/</link>
-      <atom:link href="/tags/repairs/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lmcl-umd.github.io./tags/repairs/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/repairs/index.xml" rel="self" type="application/rss+xml" />
     <description>repairs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/lsc_logo.png</url>
+      <url>https://lmcl-umd.github.io./img/lsc_logo.png</url>
       <title>repairs</title>
-      <link>/tags/repairs/</link>
+      <link>https://lmcl-umd.github.io./tags/repairs/</link>
     </image>
     
     <item>
       <title>To err is human; to structurally prime from errors is also human</title>
-      <link>/publication/pub27/</link>
+      <link>https://lmcl-umd.github.io./publication/pub27/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/pub27/</guid>
+      <guid>https://lmcl-umd.github.io./publication/pub27/</guid>
       <description></description>
     </item>
     

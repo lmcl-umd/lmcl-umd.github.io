@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2014-2015 | LMCL</title>
-    <link>/tags/2014-2015/</link>
-      <atom:link href="/tags/2014-2015/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lmcl-umd.github.io./tags/2014-2015/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/2014-2015/index.xml" rel="self" type="application/rss+xml" />
     <description>2014-2015</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/lsc_logo.png</url>
+      <url>https://lmcl-umd.github.io./img/lsc_logo.png</url>
       <title>2014-2015</title>
-      <link>/tags/2014-2015/</link>
+      <link>https://lmcl-umd.github.io./tags/2014-2015/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/project/14_15_alum/</link>
+      <link>https://lmcl-umd.github.io./project/14_15_alum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/14_15_alum/</guid>
+      <guid>https://lmcl-umd.github.io./project/14_15_alum/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Zarsh Bhatti&lt;/li&gt;
 &lt;li&gt;Nick Brown&lt;/li&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title></title>
-      <link>/project/14_15_alum2/</link>
+      <link>https://lmcl-umd.github.io./project/14_15_alum2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/14_15_alum2/</guid>
+      <guid>https://lmcl-umd.github.io./project/14_15_alum2/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Chris Eyo&lt;/li&gt;
 &lt;li&gt;Dan Lerner&lt;/li&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title></title>
-      <link>/project/14_15_alum3/</link>
+      <link>https://lmcl-umd.github.io./project/14_15_alum3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/14_15_alum3/</guid>
+      <guid>https://lmcl-umd.github.io./project/14_15_alum3/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Lisa Kaufman&lt;/li&gt;
 &lt;li&gt;Quyen Kieu&lt;/li&gt;

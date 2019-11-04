@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LMCL</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lmcl-umd.github.io./</link>
+      <atom:link href="https://lmcl-umd.github.io./index.xml" rel="self" type="application/rss+xml" />
     <description>LMCL</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/lsc_logo.png</url>
+      <url>https://lmcl-umd.github.io./img/lsc_logo.png</url>
       <title>LMCL</title>
-      <link>/</link>
+      <link>https://lmcl-umd.github.io./</link>
     </image>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://lmcl-umd.github.io./talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/</guid>
+      <guid>https://lmcl-umd.github.io./talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://lmcl-umd.github.io./publication/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
+      <guid>https://lmcl-umd.github.io./publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://lmcl-umd.github.io./post/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/</guid>
+      <guid>https://lmcl-umd.github.io./post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/</link>
+      <link>https://lmcl-umd.github.io./slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/</guid>
+      <guid>https://lmcl-umd.github.io./slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Get Involved</title>
-      <link>/involve/</link>
+      <link>https://lmcl-umd.github.io./involve/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/involve/</guid>
+      <guid>https://lmcl-umd.github.io./involve/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>/resources/</link>
+      <link>https://lmcl-umd.github.io./resources/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/resources/</guid>
+      <guid>https://lmcl-umd.github.io./resources/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Who are we</title>
-      <link>/people/</link>
+      <link>https://lmcl-umd.github.io./people/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/people/</guid>
+      <guid>https://lmcl-umd.github.io./people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://lmcl-umd.github.io./project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
+      <guid>https://lmcl-umd.github.io./project/</guid>
       <description></description>
     </item>
     
@@ -86,9 +86,9 @@
     
     <item>
       <title>Documentation</title>
-      <link>/doc/</link>
+      <link>https://lmcl-umd.github.io./doc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/doc/</guid>
+      <guid>https://lmcl-umd.github.io./doc/</guid>
       <description></description>
     </item>
     

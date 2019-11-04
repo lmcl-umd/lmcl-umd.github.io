@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>atonalia | LMCL</title>
-    <link>/tags/atonalia/</link>
-      <atom:link href="/tags/atonalia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lmcl-umd.github.io./tags/atonalia/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/atonalia/index.xml" rel="self" type="application/rss+xml" />
     <description>atonalia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/lsc_logo.png</url>
+      <url>https://lmcl-umd.github.io./img/lsc_logo.png</url>
       <title>atonalia</title>
-      <link>/tags/atonalia/</link>
+      <link>https://lmcl-umd.github.io./tags/atonalia/</link>
     </image>
     
     <item>
       <title>Preserved processing of musical structure in a person with agrammatic aphasia</title>
-      <link>/publication/pub15/</link>
+      <link>https://lmcl-umd.github.io./publication/pub15/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/pub15/</guid>
+      <guid>https://lmcl-umd.github.io./publication/pub15/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017-2018 | LMCL</title>
-    <link>/tags/2017-2018/</link>
-      <atom:link href="/tags/2017-2018/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lmcl-umd.github.io./tags/2017-2018/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/2017-2018/index.xml" rel="self" type="application/rss+xml" />
     <description>2017-2018</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/lsc_logo.png</url>
+      <url>https://lmcl-umd.github.io./img/lsc_logo.png</url>
       <title>2017-2018</title>
-      <link>/tags/2017-2018/</link>
+      <link>https://lmcl-umd.github.io./tags/2017-2018/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/project/17_18_alum/</link>
+      <link>https://lmcl-umd.github.io./project/17_18_alum/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/17_18_alum/</guid>
+      <guid>https://lmcl-umd.github.io./project/17_18_alum/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Sam Frazier&lt;/li&gt;
 &lt;li&gt;Sam Harley&lt;/li&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title></title>
-      <link>/project/17_18_alum2/</link>
+      <link>https://lmcl-umd.github.io./project/17_18_alum2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/17_18_alum2/</guid>
+      <guid>https://lmcl-umd.github.io./project/17_18_alum2/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Afiong Onyile&lt;/li&gt;
 &lt;li&gt;David Silversmith&lt;/li&gt;

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>musical training | LMCL</title>
-    <link>/tags/musical-training/</link>
-      <atom:link href="/tags/musical-training/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lmcl-umd.github.io./tags/musical-training/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/musical-training/index.xml" rel="self" type="application/rss+xml" />
     <description>musical training</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/lsc_logo.png</url>
+      <url>https://lmcl-umd.github.io./img/lsc_logo.png</url>
       <title>musical training</title>
-      <link>/tags/musical-training/</link>
+      <link>https://lmcl-umd.github.io./tags/musical-training/</link>
     </image>
     
     <item>
       <title>Individual differences in musical training and Executive Functions: A latent variable approach</title>
-      <link>/publication/pub7/</link>
+      <link>https://lmcl-umd.github.io./publication/pub7/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/pub7/</guid>
+      <guid>https://lmcl-umd.github.io./publication/pub7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Musical training: Contributions to Executive Function</title>
-      <link>/publication/pub13/</link>
+      <link>https://lmcl-umd.github.io./publication/pub13/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/pub13/</guid>
+      <guid>https://lmcl-umd.github.io./publication/pub13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Making psycholinguistics musical: Self-paced reading time evidence for shared processing of linguistic and musical syntax </title>
-      <link>/publication/pub36/</link>
+      <link>https://lmcl-umd.github.io./publication/pub36/</link>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/pub36/</guid>
+      <guid>https://lmcl-umd.github.io./publication/pub36/</guid>
       <description></description>
     </item>
     

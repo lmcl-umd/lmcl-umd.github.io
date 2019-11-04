@@ -2,524 +2,524 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | LMCL</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lmcl-umd.github.io./authors/</link>
+      <atom:link href="https://lmcl-umd.github.io./authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/lsc_logo.png</url>
+      <url>https://lmcl-umd.github.io./img/lsc_logo.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://lmcl-umd.github.io./authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/bob/</link>
+      <link>https://lmcl-umd.github.io./authors/bob/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/bob/</guid>
+      <guid>https://lmcl-umd.github.io./authors/bob/</guid>
       <description>&lt;p&gt;Bob Slevc is an Associate Professor and Director of Graduate Studies in the Department of Psychology, part of the Neuroscience and Cognitive Science program and of the Maryland Language Science Center.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Brooke M. Okada</title>
-      <link>/authors/brooke-m.-okada/</link>
+      <link>https://lmcl-umd.github.io./authors/brooke-m.-okada/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/brooke-m.-okada/</guid>
+      <guid>https://lmcl-umd.github.io./authors/brooke-m.-okada/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jared M. Novick</title>
-      <link>/authors/jared-m.-novick/</link>
+      <link>https://lmcl-umd.github.io./authors/jared-m.-novick/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jared-m.-novick/</guid>
+      <guid>https://lmcl-umd.github.io./authors/jared-m.-novick/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mattson Ogg</title>
-      <link>/authors/mattson-ogg/</link>
+      <link>https://lmcl-umd.github.io./authors/mattson-ogg/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/mattson-ogg/</guid>
+      <guid>https://lmcl-umd.github.io./authors/mattson-ogg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thomas Carlson</title>
-      <link>/authors/thomas-carlson/</link>
+      <link>https://lmcl-umd.github.io./authors/thomas-carlson/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/thomas-carlson/</guid>
+      <guid>https://lmcl-umd.github.io./authors/thomas-carlson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dustin Moraczewski</title>
-      <link>/authors/dustin-moraczewski/</link>
+      <link>https://lmcl-umd.github.io./authors/dustin-moraczewski/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/dustin-moraczewski/</guid>
+      <guid>https://lmcl-umd.github.io./authors/dustin-moraczewski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stefanie E. Kuchinsky</title>
-      <link>/authors/stefanie-e.-kuchinsky/</link>
+      <link>https://lmcl-umd.github.io./authors/stefanie-e.-kuchinsky/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/stefanie-e.-kuchinsky/</guid>
+      <guid>https://lmcl-umd.github.io./authors/stefanie-e.-kuchinsky/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://lmcl-umd.github.io./authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://lmcl-umd.github.io./authors/admin/</guid>
       <description>&lt;p&gt;In the Language and Music Cognition Lab at University of Maryland, we focus on&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>James A. Grand</title>
-      <link>/authors/james-a.-grand/</link>
+      <link>https://lmcl-umd.github.io./authors/james-a.-grand/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/james-a.-grand/</guid>
+      <guid>https://lmcl-umd.github.io./authors/james-a.-grand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael R. Dougherty</title>
-      <link>/authors/michael-r.-dougherty/</link>
+      <link>https://lmcl-umd.github.io./authors/michael-r.-dougherty/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-r.-dougherty/</guid>
+      <guid>https://lmcl-umd.github.io./authors/michael-r.-dougherty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hao Yan</title>
-      <link>/authors/hao-yan/</link>
+      <link>https://lmcl-umd.github.io./authors/hao-yan/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/hao-yan/</guid>
+      <guid>https://lmcl-umd.github.io./authors/hao-yan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Randi C. Martin</title>
-      <link>/authors/randi-c.-martin/</link>
+      <link>https://lmcl-umd.github.io./authors/randi-c.-martin/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/randi-c.-martin/</guid>
+      <guid>https://lmcl-umd.github.io./authors/randi-c.-martin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam Morgan</title>
-      <link>/authors/adam-morgan/</link>
+      <link>https://lmcl-umd.github.io./authors/adam-morgan/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/adam-morgan/</guid>
+      <guid>https://lmcl-umd.github.io./authors/adam-morgan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Victor S. Ferreira</title>
-      <link>/authors/victor-s.-ferreira/</link>
+      <link>https://lmcl-umd.github.io./authors/victor-s.-ferreira/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/victor-s.-ferreira/</guid>
+      <guid>https://lmcl-umd.github.io./authors/victor-s.-ferreira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Colin Phillips</title>
-      <link>/authors/colin-phillips/</link>
+      <link>https://lmcl-umd.github.io./authors/colin-phillips/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/colin-phillips/</guid>
+      <guid>https://lmcl-umd.github.io./authors/colin-phillips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shota Momma</title>
-      <link>/authors/shota-momma/</link>
+      <link>https://lmcl-umd.github.io./authors/shota-momma/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/shota-momma/</guid>
+      <guid>https://lmcl-umd.github.io./authors/shota-momma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>William J. Idsardi</title>
-      <link>/authors/william-j.-idsardi/</link>
+      <link>https://lmcl-umd.github.io./authors/william-j.-idsardi/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/william-j.-idsardi/</guid>
+      <guid>https://lmcl-umd.github.io./authors/william-j.-idsardi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iva Ivanova</title>
-      <link>/authors/iva-ivanova/</link>
+      <link>https://lmcl-umd.github.io./authors/iva-ivanova/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/iva-ivanova/</guid>
+      <guid>https://lmcl-umd.github.io./authors/iva-ivanova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Martin Buschkuehl</title>
-      <link>/authors/martin-buschkuehl/</link>
+      <link>https://lmcl-umd.github.io./authors/martin-buschkuehl/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/martin-buschkuehl/</guid>
+      <guid>https://lmcl-umd.github.io./authors/martin-buschkuehl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nicholas S. Davey</title>
-      <link>/authors/nicholas-s.-davey/</link>
+      <link>https://lmcl-umd.github.io./authors/nicholas-s.-davey/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/nicholas-s.-davey/</guid>
+      <guid>https://lmcl-umd.github.io./authors/nicholas-s.-davey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Susanne M. Jaeggi</title>
-      <link>/authors/susanne-m.-jaeggi/</link>
+      <link>https://lmcl-umd.github.io./authors/susanne-m.-jaeggi/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/susanne-m.-jaeggi/</guid>
+      <guid>https://lmcl-umd.github.io./authors/susanne-m.-jaeggi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leon Li</title>
-      <link>/authors/leon-li/</link>
+      <link>https://lmcl-umd.github.io./authors/leon-li/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/leon-li/</guid>
+      <guid>https://lmcl-umd.github.io./authors/leon-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sadhvi Saxena</title>
-      <link>/authors/sadhvi-saxena/</link>
+      <link>https://lmcl-umd.github.io./authors/sadhvi-saxena/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/sadhvi-saxena/</guid>
+      <guid>https://lmcl-umd.github.io./authors/sadhvi-saxena/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yasmeen Faroqi-Shah</title>
-      <link>/authors/yasmeen-faroqi-shah/</link>
+      <link>https://lmcl-umd.github.io./authors/yasmeen-faroqi-shah/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/yasmeen-faroqi-shah/</guid>
+      <guid>https://lmcl-umd.github.io./authors/yasmeen-faroqi-shah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jared A. Linck</title>
-      <link>/authors/jared-a.-linck/</link>
+      <link>https://lmcl-umd.github.io./authors/jared-a.-linck/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/jared-a.-linck/</guid>
+      <guid>https://lmcl-umd.github.io./authors/jared-a.-linck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christopher C. Heffner</title>
-      <link>/authors/christopher-c.-heffner/</link>
+      <link>https://lmcl-umd.github.io./authors/christopher-c.-heffner/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/christopher-c.-heffner/</guid>
+      <guid>https://lmcl-umd.github.io./authors/christopher-c.-heffner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alison Shell</title>
-      <link>/authors/alison-shell/</link>
+      <link>https://lmcl-umd.github.io./authors/alison-shell/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/alison-shell/</guid>
+      <guid>https://lmcl-umd.github.io./authors/alison-shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Richard Kunert</title>
-      <link>/authors/richard-kunert/</link>
+      <link>https://lmcl-umd.github.io./authors/richard-kunert/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/richard-kunert/</guid>
+      <guid>https://lmcl-umd.github.io./authors/richard-kunert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jared Linck</title>
-      <link>/authors/jared-linck/</link>
+      <link>https://lmcl-umd.github.io./authors/jared-linck/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/jared-linck/</guid>
+      <guid>https://lmcl-umd.github.io./authors/jared-linck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nikolaus Kriegeskorte</title>
-      <link>/authors/nikolaus-kriegeskorte/</link>
+      <link>https://lmcl-umd.github.io./authors/nikolaus-kriegeskorte/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/nikolaus-kriegeskorte/</guid>
+      <guid>https://lmcl-umd.github.io./authors/nikolaus-kriegeskorte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ryan A. Simmons</title>
-      <link>/authors/ryan-a.-simmons/</link>
+      <link>https://lmcl-umd.github.io./authors/ryan-a.-simmons/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/ryan-a.-simmons/</guid>
+      <guid>https://lmcl-umd.github.io./authors/ryan-a.-simmons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thomas A. Carlson</title>
-      <link>/authors/thomas-a.-carlson/</link>
+      <link>https://lmcl-umd.github.io./authors/thomas-a.-carlson/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/thomas-a.-carlson/</guid>
+      <guid>https://lmcl-umd.github.io./authors/thomas-a.-carlson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jason G. Reitman</title>
-      <link>/authors/jason-g.-reitman/</link>
+      <link>https://lmcl-umd.github.io./authors/jason-g.-reitman/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/jason-g.-reitman/</guid>
+      <guid>https://lmcl-umd.github.io./authors/jason-g.-reitman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anthony Brandt</title>
-      <link>/authors/anthony-brandt/</link>
+      <link>https://lmcl-umd.github.io./authors/anthony-brandt/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/anthony-brandt/</guid>
+      <guid>https://lmcl-umd.github.io./authors/anthony-brandt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molly Gebrian</title>
-      <link>/authors/molly-gebrian/</link>
+      <link>https://lmcl-umd.github.io./authors/molly-gebrian/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/molly-gebrian/</guid>
+      <guid>https://lmcl-umd.github.io./authors/molly-gebrian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Randi C Martin</title>
-      <link>/authors/randi-c-martin/</link>
+      <link>https://lmcl-umd.github.io./authors/randi-c-martin/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/randi-c-martin/</guid>
+      <guid>https://lmcl-umd.github.io./authors/randi-c-martin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aniruddh D.Patel</title>
-      <link>/authors/aniruddh-d.patel/</link>
+      <link>https://lmcl-umd.github.io./authors/aniruddh-d.patel/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/aniruddh-d.patel/</guid>
+      <guid>https://lmcl-umd.github.io./authors/aniruddh-d.patel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Cris Hamilton</title>
-      <link>/authors/a.-cris-hamilton/</link>
+      <link>https://lmcl-umd.github.io./authors/a.-cris-hamilton/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-cris-hamilton/</guid>
+      <guid>https://lmcl-umd.github.io./authors/a.-cris-hamilton/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marc F. Joanisse</title>
-      <link>/authors/marc-f.-joanisse/</link>
+      <link>https://lmcl-umd.github.io./authors/marc-f.-joanisse/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/marc-f.-joanisse/</guid>
+      <guid>https://lmcl-umd.github.io./authors/marc-f.-joanisse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Randi C.Martin</title>
-      <link>/authors/randi-c.martin/</link>
+      <link>https://lmcl-umd.github.io./authors/randi-c.martin/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/randi-c.martin/</guid>
+      <guid>https://lmcl-umd.github.io./authors/randi-c.martin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jason C. Rosenberg</title>
-      <link>/authors/jason-c.-rosenberg/</link>
+      <link>https://lmcl-umd.github.io./authors/jason-c.-rosenberg/</link>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/jason-c.-rosenberg/</guid>
+      <guid>https://lmcl-umd.github.io./authors/jason-c.-rosenberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liane Wardlow Lane</title>
-      <link>/authors/liane-wardlow-lane/</link>
+      <link>https://lmcl-umd.github.io./authors/liane-wardlow-lane/</link>
       <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
-      <guid>/authors/liane-wardlow-lane/</guid>
+      <guid>https://lmcl-umd.github.io./authors/liane-wardlow-lane/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Akira Miyake</title>
-      <link>/authors/akira-miyake/</link>
+      <link>https://lmcl-umd.github.io./authors/akira-miyake/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>/authors/akira-miyake/</guid>
+      <guid>https://lmcl-umd.github.io./authors/akira-miyake/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joseph P. McCleery</title>
-      <link>/authors/joseph-p.-mccleery/</link>
+      <link>https://lmcl-umd.github.io./authors/joseph-p.-mccleery/</link>
       <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
-      <guid>/authors/joseph-p.-mccleery/</guid>
+      <guid>https://lmcl-umd.github.io./authors/joseph-p.-mccleery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laura Schreibman</title>
-      <link>/authors/laura-schreibman/</link>
+      <link>https://lmcl-umd.github.io./authors/laura-schreibman/</link>
       <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
-      <guid>/authors/laura-schreibman/</guid>
+      <guid>https://lmcl-umd.github.io./authors/laura-schreibman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lisa Tully</title>
-      <link>/authors/lisa-tully/</link>
+      <link>https://lmcl-umd.github.io./authors/lisa-tully/</link>
       <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
-      <guid>/authors/lisa-tully/</guid>
+      <guid>https://lmcl-umd.github.io./authors/lisa-tully/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erin S. Rogers</title>
-      <link>/authors/erin-s.-rogers/</link>
+      <link>https://lmcl-umd.github.io./authors/erin-s.-rogers/</link>
       <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/erin-s.-rogers/</guid>
+      <guid>https://lmcl-umd.github.io./authors/erin-s.-rogers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Victor S.Ferreira</title>
-      <link>/authors/victor-s.ferreira/</link>
+      <link>https://lmcl-umd.github.io./authors/victor-s.ferreira/</link>
       <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/victor-s.ferreira/</guid>
+      <guid>https://lmcl-umd.github.io./authors/victor-s.ferreira/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/abubakari/</link>
+      <link>https://lmcl-umd.github.io./authors/abubakari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/abubakari/</guid>
+      <guid>https://lmcl-umd.github.io./authors/abubakari/</guid>
       <description>&lt;p&gt;Zenab Abubakari is currently a junior at the University of Maryland, College Park. She is pursuing a double major in Psychology and Economics. She hopes to attend graduate school after attending Maryland.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/andres/</link>
+      <link>https://lmcl-umd.github.io./authors/andres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/andres/</guid>
+      <guid>https://lmcl-umd.github.io./authors/andres/</guid>
       <description>&lt;p&gt;Andrés is a President&amp;rsquo;s Postdoctoral Fellow in the Psychology department at the University of Maryland. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/burns/</link>
+      <link>https://lmcl-umd.github.io./authors/burns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/burns/</guid>
+      <guid>https://lmcl-umd.github.io./authors/burns/</guid>
       <description>&lt;p&gt;Camille is a current undergrad pursing a major in psychology and a minor in neuroscience. She is fascinated by practically everything, but her main interests include speech/language production, music, and neuropharmacology. In her free time, she is an avid artist and ultimate frisbee player.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/cole/</link>
+      <link>https://lmcl-umd.github.io./authors/cole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/cole/</guid>
+      <guid>https://lmcl-umd.github.io./authors/cole/</guid>
       <description>&lt;p&gt;Alissa is a senior psychology major with minors in neuroscience and hearing and speech sciences. She is currently working on her honors thesis looking at predictive language processing. After graduating, she hopes to attend graduate school to obtain a PhD in clinical psychology.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/dadkhoo/</link>
+      <link>https://lmcl-umd.github.io./authors/dadkhoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/dadkhoo/</guid>
+      <guid>https://lmcl-umd.github.io./authors/dadkhoo/</guid>
       <description>&lt;p&gt;Hi! My name is Donna Dadkhoo and I am a Junior Psychology major on the Pre-Med track. I am from Potomac, Maryland, and my family is from Iran, so I am bilingual in Farsi and English. Some of my favorite things include trips to DC, going to music festivals, and eating Ledo’s pizza.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/kim/</link>
+      <link>https://lmcl-umd.github.io./authors/kim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/kim/</guid>
+      <guid>https://lmcl-umd.github.io./authors/kim/</guid>
       <description>&lt;p&gt;Yusol is from Ellicott City, Maryland. She is interested in Educational Psychology to enhance student’s education and well-being. She Plans to attend Grad School in the future.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/momma/</link>
+      <link>https://lmcl-umd.github.io./authors/momma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/momma/</guid>
+      <guid>https://lmcl-umd.github.io./authors/momma/</guid>
       <description>&lt;p&gt;Shota Momma completed his Ph.D. in Linguistics in 2016. He was advised by &lt;a href=&#34;http://www.colinphillips.net&#34; target=&#34;_blank&#34;&gt;Colin Phillips&lt;/a&gt;, but also spent a good chunk of time in the LMCL, so we&amp;rsquo;ll take some credit. Shota is currently a postdoc in the &lt;a href=&#34;https://lpl.ucsd.edu&#34; target=&#34;_blank&#34;&gt;Language Production Lab at UCSD&lt;/a&gt; and will soon be an assistant professor of Linguistics at the University of Massachusetts, Amherst.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/ogg/</link>
+      <link>https://lmcl-umd.github.io./authors/ogg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ogg/</guid>
+      <guid>https://lmcl-umd.github.io./authors/ogg/</guid>
       <description>&lt;p&gt;Mattson Ogg completed his Ph.D. in &lt;a href=&#34;https://nacs.umd.edu&#34; target=&#34;_blank&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; in April, 2019 (dissertation title: The acoustic factors that influence auditory object and event recognition over time). He is currently an audio/speech signal processing engineer at the &lt;a href=&#34;https://www.jhuapl.edu&#34; target=&#34;_blank&#34;&gt;Johns Hopkins University Applied Physics Laboratory&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/okada/</link>
+      <link>https://lmcl-umd.github.io./authors/okada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/okada/</guid>
+      <guid>https://lmcl-umd.github.io./authors/okada/</guid>
       <description>&lt;p&gt;Brooke Okada completed her Ph.D. in Psychology in August, 2018 (dissertation title: Toward a comprehensive model of musical ability). She is currently a data analyst at &lt;a href=&#34;https://www.syscolabs.com&#34; target=&#34;_blank&#34;&gt;Sisco LABS&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/peabody/</link>
+      <link>https://lmcl-umd.github.io./authors/peabody/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/peabody/</guid>
+      <guid>https://lmcl-umd.github.io./authors/peabody/</guid>
       <description>&lt;p&gt;Lydia is an undergraduate student from Bethesda, Maryland studying Psychology with a minor in General Business. She has a passion for music and is eager to learn any and everything about the way we think about and process music.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/salig/</link>
+      <link>https://lmcl-umd.github.io./authors/salig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/salig/</guid>
+      <guid>https://lmcl-umd.github.io./authors/salig/</guid>
       <description>&lt;p&gt;Lauren is a graduate student in the Neuroscience and Cognitive Science program. She is originally from Downingtown, Pennsylvania. Lauren received a bachelor&amp;rsquo;s degree in psychology and Spanish from Elon University in 2017 and spent a year after graduation in Neuquén, Argentina teaching English on a Fulbright grant. For her graduate studies, she is interested in researching language processing through an intercultural lens that considers how language processing might be affected by bilingualism, accents, code-switching, and the like.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/santomartino/</link>
+      <link>https://lmcl-umd.github.io./authors/santomartino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/santomartino/</guid>
+      <guid>https://lmcl-umd.github.io./authors/santomartino/</guid>
       <description>&lt;p&gt;Sam Santomartino is a recent graduate of Bucknell University where she earned her Bachelor or Arts in Computer Science and Economics. Interested in musical cognition and neurology, Sam is doing research to gain more exposure to the fields while she takes some additional classes at the University of Maryland.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/shell/</link>
+      <link>https://lmcl-umd.github.io./authors/shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/shell/</guid>
+      <guid>https://lmcl-umd.github.io./authors/shell/</guid>
       <description>&lt;p&gt;Alison Shell completed her Ph.D. in Psychology in October, 2018 (dissertation title: The what And where of control in bilingual language switching). She is currently a research fellow at &lt;a href=&#34;https://digitalpromise.org&#34; target=&#34;_blank&#34;&gt;Digital Promise&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/thompson/</link>
+      <link>https://lmcl-umd.github.io./authors/thompson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/thompson/</guid>
+      <guid>https://lmcl-umd.github.io./authors/thompson/</guid>
       <description>&lt;p&gt;Rachel is a doctoral student in the Neuroscience and Cognitive Science (NACS) program at the University of Maryland College Park. She received her bachelor’s degree in psychology and music from St. Mary’s College of Maryland in 2019. She is interested in music perception and production, music memory, and the relationship between music and language.&lt;/p&gt;
 </description>
     </item>

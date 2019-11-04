@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab Manual | LMCL</title>
-    <link>/doc/example/</link>
-      <atom:link href="/doc/example/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lmcl-umd.github.io./doc/example/</link>
+      <atom:link href="https://lmcl-umd.github.io./doc/example/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab Manual</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/lsc_logo.png</url>
+      <url>https://lmcl-umd.github.io./img/lsc_logo.png</url>
       <title>Lab Manual</title>
-      <link>/doc/example/</link>
+      <link>https://lmcl-umd.github.io./doc/example/</link>
     </image>
     
     <item>
       <title>LMCL iMac Computers</title>
-      <link>/doc/example/imacsoftware/</link>
+      <link>https://lmcl-umd.github.io./doc/example/imacsoftware/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/doc/example/imacsoftware/</guid>
+      <guid>https://lmcl-umd.github.io./doc/example/imacsoftware/</guid>
       <description>
 
 &lt;h2 id=&#34;information-about-the-imac-computers-in-the-lab&#34;&gt;Information about the iMac computers in the lab&lt;/h2&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>Psychopy Tips and Tricks</title>
-      <link>/doc/example/psychopyupdate/</link>
+      <link>https://lmcl-umd.github.io./doc/example/psychopyupdate/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/doc/example/psychopyupdate/</guid>
+      <guid>https://lmcl-umd.github.io./doc/example/psychopyupdate/</guid>
       <description>
 
 &lt;h2 id=&#34;how-to-update-to-psychopy3-on-your-computer&#34;&gt;How to update to Psychopy3 on your computer&lt;/h2&gt;

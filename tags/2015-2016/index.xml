@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2015-2016 | LMCL</title>
-    <link>/tags/2015-2016/</link>
-      <atom:link href="/tags/2015-2016/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lmcl-umd.github.io./tags/2015-2016/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/2015-2016/index.xml" rel="self" type="application/rss+xml" />
     <description>2015-2016</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/lsc_logo.png</url>
+      <url>https://lmcl-umd.github.io./img/lsc_logo.png</url>
       <title>2015-2016</title>
-      <link>/tags/2015-2016/</link>
+      <link>https://lmcl-umd.github.io./tags/2015-2016/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/project/15_16_alum/</link>
+      <link>https://lmcl-umd.github.io./project/15_16_alum/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/15_16_alum/</guid>
+      <guid>https://lmcl-umd.github.io./project/15_16_alum/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Abiola Adesina&lt;/li&gt;
 &lt;li&gt;Tiffany Bamdad *&lt;/li&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title></title>
-      <link>/project/15_16_alum2/</link>
+      <link>https://lmcl-umd.github.io./project/15_16_alum2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/15_16_alum2/</guid>
+      <guid>https://lmcl-umd.github.io./project/15_16_alum2/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Arcadia Ewell&lt;/li&gt;
 &lt;li&gt;Toria Hawkins&lt;/li&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title></title>
-      <link>/project/15_16_alum3/</link>
+      <link>https://lmcl-umd.github.io./project/15_16_alum3/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/15_16_alum3/</guid>
+      <guid>https://lmcl-umd.github.io./project/15_16_alum3/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;McLaine Rich&lt;/li&gt;
 &lt;li&gt;Judith Tsoi&lt;/li&gt;

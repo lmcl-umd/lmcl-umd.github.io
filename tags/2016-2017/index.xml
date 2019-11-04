@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2016-2017 | LMCL</title>
-    <link>/tags/2016-2017/</link>
-      <atom:link href="/tags/2016-2017/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lmcl-umd.github.io./tags/2016-2017/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/2016-2017/index.xml" rel="self" type="application/rss+xml" />
     <description>2016-2017</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/lsc_logo.png</url>
+      <url>https://lmcl-umd.github.io./img/lsc_logo.png</url>
       <title>2016-2017</title>
-      <link>/tags/2016-2017/</link>
+      <link>https://lmcl-umd.github.io./tags/2016-2017/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/project/16_17_alum/</link>
+      <link>https://lmcl-umd.github.io./project/16_17_alum/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/16_17_alum/</guid>
+      <guid>https://lmcl-umd.github.io./project/16_17_alum/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Arman Ali&lt;/li&gt;
 &lt;li&gt;William Bartz&lt;/li&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title></title>
-      <link>/project/16_17_alum2/</link>
+      <link>https://lmcl-umd.github.io./project/16_17_alum2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/16_17_alum2/</guid>
+      <guid>https://lmcl-umd.github.io./project/16_17_alum2/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Christy Jones&lt;/li&gt;
 &lt;li&gt;Christy Nguyen&lt;/li&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title></title>
-      <link>/project/16_17_alum3/</link>
+      <link>https://lmcl-umd.github.io./project/16_17_alum3/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/16_17_alum3/</guid>
+      <guid>https://lmcl-umd.github.io./project/16_17_alum3/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Jessica Ward&lt;/li&gt;
 &lt;li&gt;Jocelyn Yao&lt;/li&gt;
