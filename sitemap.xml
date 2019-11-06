@@ -158,12 +158,22 @@
   </url>
   
   <url>
+    <loc>https://lmcl-umd.github.io./tags/aphasia/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmcl-umd.github.io./tags/auditory-object/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmcl-umd.github.io./tags/auditory-perception/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./tags/cognitive-reserve/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -179,6 +189,31 @@
   
   <url>
     <loc>https://lmcl-umd.github.io./tags/fmri/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./tags/language/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./authors/madeline-pifer/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./publication/pub44/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./authors/sadhvi-saxena/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./authors/sarah-j.-fisher/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,7 +238,17 @@
   </url>
   
   <url>
+    <loc>https://lmcl-umd.github.io./tags/syntax/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmcl-umd.github.io./tags/timbre/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./authors/yasmeen-faroqi-shah/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -280,11 +325,6 @@
   <url>
     <loc>https://lmcl-umd.github.io./people/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmcl-umd.github.io./tags/aphasia/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -553,11 +593,6 @@
   </url>
   
   <url>
-    <loc>https://lmcl-umd.github.io./tags/language/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lmcl-umd.github.io./authors/leon-li/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -584,21 +619,6 @@
   
   <url>
     <loc>https://lmcl-umd.github.io./publication/pub15/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmcl-umd.github.io./authors/sadhvi-saxena/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmcl-umd.github.io./tags/syntax/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmcl-umd.github.io./authors/yasmeen-faroqi-shah/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
   </url>
   
