@@ -59,6 +59,7 @@
 &lt;h3 id=&#34;helpful-git-commands&#34;&gt;Helpful Git Commands:&lt;/h3&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# clone the repository
+# your commit message should describe the edits made 
 git clone https://github.com/lmcl-umd/websiteWork.git
 
 # deploy edits to lmcl-umd.github.io. repository
@@ -68,6 +69,7 @@ git clone https://github.com/lmcl-umd/websiteWork.git
 git add *
 
 # commit edits to websiteWork repository
+# your commit message should describe the edits made  
 git commit -m &amp;quot;your commit message&amp;quot;
 
 # push edits to websiteWork repository
