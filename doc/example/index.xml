@@ -13,6 +13,102 @@
     </image>
     
     <item>
+      <title>Overview</title>
+      <link>https://lmcl-umd.github.io./doc/example/editwebsite/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://lmcl-umd.github.io./doc/example/editwebsite/</guid>
+      <description>
+
+&lt;h3 id=&#34;system-design&#34;&gt;System Design:&lt;/h3&gt;
+
+&lt;p&gt;The LMCL website is built using a &lt;a href=&#34;https://gohugo.io/about/what-is-hugo/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; website framework and hosted on &lt;a href=&#34;https://pages.github.com&#34; target=&#34;_blank&#34;&gt;Github Pages&lt;/a&gt;. We implemented the Hugo &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt; theme. The Academic theme uses a series of templates called &amp;ldquo;widgets&amp;rdquo; that can copied and edited as needed to build the site.&lt;/p&gt;
+
+&lt;p&gt;Our website is available at: &lt;a href=&#34;http://lmcl-umd.github.io&#34; target=&#34;_blank&#34;&gt;http://lmcl-umd.github.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;system-requirements&#34;&gt;System Requirements:&lt;/h3&gt;
+
+&lt;p&gt;In order to edit and update the website, you must have the following installed on your machine:&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;&lt;a href=&#34;https://brew.sh&#34; target=&#34;_blank&#34;&gt;Homebrew&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;&lt;a href=&#34;https://help.github.com/en/github/getting-started-with-github/set-up-git&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;github-repositories&#34;&gt;Github Repositories:&lt;/h3&gt;
+
+&lt;p&gt;The code for our website is hosted on Github. The username for our lab&amp;rsquo;s GitHub is &lt;b&gt;lmcl-umd&lt;/b&gt;. Contact Dr. Slevc for the password if/when needed for SSH authentication (see &amp;ldquo;Editing the Website&amp;rdquo; below). There are two repositories in which the code lives:
+&lt;li&gt; websiteWork&lt;/li&gt;
+&lt;li&gt; lmcl-umd.github.io.&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;b&gt;websiteWork&lt;/b&gt; repository is where the working code lives while the &lt;b&gt;lmcl-umd.github.io.&lt;/b&gt; repository is where the live code lives.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Note: You will only ever have to change code in websiteWork and that will automatically update the live code in the lmcl-umd.github.io. repository. &lt;/b&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;editing-updating-the-website&#34;&gt;Editing/Updating the Website:&lt;/h3&gt;
+
+&lt;p&gt;In order to edit the website, you must clone the websiteWork repository from git onto your local machine. After the website files are locally on your machine, you can make changes. Before you push them back up to the websiteWork repository, run the following code snippet:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;./deploy.sh &amp;quot;Your commit message&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This deploy command will push your edits to the lmcl-umd.github.io. repository and after a couple of minutes, your changes will appear on the live website.&lt;/p&gt;
+
+&lt;p&gt;In order to clone and push edits via git, you must first have git set up on your computer and &lt;a href=&#34;https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account&#34; target=&#34;_blank&#34;&gt;authenticate our lmcl-umd GitHub&lt;/a&gt; account via your computer&amp;rsquo;s unique SSH key.&lt;/p&gt;
+
+&lt;h3 id=&#34;helpful-git-commands&#34;&gt;Helpful Git Commands:&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# clone the repository
+git clone https://github.com/lmcl-umd/websiteWork.git
+
+# deploy edits to lmcl-umd.github.io. repository
+./deploy.sh &amp;quot;your commit message&amp;quot;
+
+# add edits to websiteWork repository
+git add *
+
+# commit edits to websiteWork repository
+git commit -m &amp;quot;your commit message&amp;quot;
+
+# push edits to websiteWork repository
+git push 
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;code-organization&#34;&gt;Code Organization:&lt;/h3&gt;
+
+&lt;p&gt;After you clone the websiteWork repository, you will see a folder called &amp;ldquo;websiteWork&amp;rdquo; on your computer. Within that folder are many, many subdirectories. The main folders most relevant for editing, however, are:&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;&lt;b&gt;content:&lt;/b&gt; holds all the actual editable content on the site; subdirectories within this folder are named to indicate which sections of the site they house information on&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;config:&lt;/b&gt; holds the more administrative, website configuration files&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;static:&lt;/b&gt; holds images and other files such as publication odds or profile cv&amp;rsquo;s for reference by other folders&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;layouts:&lt;/b&gt; the main back-end of the website that holds all style sheets, and design of the site&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Do NOT ever edit the public folder in this repository&lt;/b&gt; It handles the automatic deployment to the main website and should not be edited.&lt;/p&gt;
+
+&lt;p&gt;For more information on &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34; target=&#34;_blank&#34;&gt;managing&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing&lt;/a&gt; content see the Hugo Academic &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;source documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;make-edits-without-deploying&#34;&gt;Make Edits without Deploying&lt;/h3&gt;
+
+&lt;p&gt;What if you want to just play around and see how something will look before actually deploying to the website?&lt;/p&gt;
+
+&lt;p&gt;We also have a version of the website&amp;rsquo;s code (and example code) on DropBox. This code is not live and can be run locally. Enter the &lt;b&gt;lmclSite&lt;/b&gt; folder via the terminal and then type the command&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Next open a web-browser and type&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;localhost:1313
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The code will render in the browser.&lt;/p&gt;
+
+&lt;p&gt;For access to the DropBox code, contact Dr. Slevc and you will be granted access for editing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>LMCL iMac Computers</title>
       <link>https://lmcl-umd.github.io./doc/example/imacsoftware/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
