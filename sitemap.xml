@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lmcl-umd.github.io./doc/example/editwebsite/</loc>
+    <loc>https://lmcl-umd.github.io./doc/example/bloginfo/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./doc/example/calendars/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -14,6 +19,11 @@
   
   <url>
     <loc>https://lmcl-umd.github.io./doc/example/psychopyupdate/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./doc/example/editwebsite/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -1118,10 +1128,6 @@
   
   <url>
     <loc>https://lmcl-umd.github.io./authors/kim/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lmcl-umd.github.io./authors/momma/</loc>
   </url>
   
   <url>
