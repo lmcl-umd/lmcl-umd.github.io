@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -64,11 +64,6 @@
   
   <url>
     <loc>https://lmcl-umd.github.io./publication_types/2/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmcl-umd.github.io./publication_types/3/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url>
   
