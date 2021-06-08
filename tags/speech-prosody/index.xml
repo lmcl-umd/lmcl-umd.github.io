@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LMCL</title>
-    <link>https://lmcl-umd.github.io./authors/andres/</link>
-      <atom:link href="https://lmcl-umd.github.io./authors/andres/index.xml" rel="self" type="application/rss+xml" />
-    <description>LMCL</description>
+    <title>Speech prosody | LMCL</title>
+    <link>https://lmcl-umd.github.io./tags/speech-prosody/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/speech-prosody/index.xml" rel="self" type="application/rss+xml" />
+    <description>Speech prosody</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
-      <title>LMCL</title>
-      <link>https://lmcl-umd.github.io./authors/andres/</link>
+      <title>Speech prosody</title>
+      <link>https://lmcl-umd.github.io./tags/speech-prosody/</link>
     </image>
     
     <item>
