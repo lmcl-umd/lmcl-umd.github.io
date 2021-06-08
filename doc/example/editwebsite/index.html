@@ -524,27 +524,42 @@ System Requirements: In order to edit and update the website, you must have the 
 <li> websiteWork</li>
 <li> lmcl-umd.github.io.</li></p>
 
-<p>The <b>websiteWork</b> repository is where the working code lives while the <b>lmcl-umd.github.io.</b> repository is where the live code lives.</p>
+<p>The <b>websiteWork</b> repository is where the working code lives while the <b>lmcl-umd.github.io.</b> repository is where the live (published) code lives.</p>
 
 <p><b> Note: You will only ever have to change code in websiteWork and that will automatically update the live code in the lmcl-umd.github.io. repository. </b></p>
 
 <h3 id="editing-updating-the-website">Editing/Updating the Website:</h3>
 
-<p>In order to edit the website, you must clone the websiteWork repository from git onto your local machine. When you clone the websiteWork repository, the &ldquo;public&rdquo; folder from the code will also be copied onto your machine. This folder, in layman&rsquo;s terms, manages the updates to the site repository. In order to set this automatic updating up, you must run the following code snippets:</p>
+<p>In order to edit the website, you must clone the websiteWork repository from git onto your local machine. When you clone the websiteWork repository, the &ldquo;public&rdquo; folder from the code will also be copied onto your machine. This folder, in layman&rsquo;s terms, manages the updates to the site repository. In order to clone and set up this automatic updating, you must follow the steps below:</p>
 
-<pre><code class="language-python">#completely remove the current public directory
-rm -rf public
-
-#creates a git submodule: builds your site to public where the created public directory will have a different remote origin (i.e. hosted GitHub repository)
+<pre><code class="language-python">1. open a terminal on your computer 
+2. navigate to the folder/directory in which you wish to download the websiteWork repository
+3. use the following command to clone the websiteWork repository onto your local machine: 
+git clone https://github.com/lmcl-umd/websiteWork.git
+4. navigate into the websiteWork directory
+cd websiteWork
+5. completely remove the current public directory so that you may set up your own tracking to the remote repository
+git rm -r --cached public
+6. creates a git submodule, this builds your site to public where the created public directory will have a different remote origin (i.e. hosted GitHub repository)
 git submodule add -b master git@github.com:lmcl-umd/lmcl-umd.github.io.git public
-
-#runs the first build of public
+7. run the first build of public
 hugo
 </code></pre>
 
-<p>After the website files are locally on your machine and your public directory is set up, you can make changes that will be visible both locally and on the master site. Before you push them back up to the websiteWork repository, run the following code snippet:</p>
+<p>After the website files are locally on your machine and your public directory is set up, you can make changes that will be visible both locally and on the master site. Any time you make changes in the local, websiteWork repository (any of the websiteWork files), you will follow the steps below to delay these changes to the public repository (i.e. the website):</p>
 
-<pre><code class="language-python">./deploy.sh &quot;Your commit message&quot;
+<pre><code class="language-python">1. make sure your local repository matches with the remote repository, pull any new changes
+git pull
+2. see what changes have been made
+git status
+3. add all these changes to git for tracking
+git add *
+4. commit your changes to be made
+git commit -m &quot;your commit message here&quot;
+5. push these changes to the local websiteWork repository 
+git push
+6. deploy these changes to the public repository (i.e. the live website)
+./deploy.sh &quot;Your commit message&quot;
 </code></pre>
 
 <p>This deploy command will push your edits to the lmcl-umd.github.io. repository and after a couple of minutes, your changes will appear on the live website.</p>
@@ -555,6 +570,9 @@ hugo
 
 <pre><code class="language-python"># clone the repository
 git clone https://github.com/lmcl-umd/websiteWork.git
+
+# make sure you have the most recent version of the repository on your local machine
+git pull
 
 # deploy edits to lmcl-umd.github.io. repository
 # your commit message should describe the edits made 
@@ -569,6 +587,9 @@ git commit -m &quot;your commit message&quot;
 
 # push edits to websiteWork repository
 git push 
+
+# see what edits you have made
+git staus 
 
 </code></pre>
 
@@ -589,6 +610,8 @@ git reset --hard origin/master
 
 <pre><code class="language-python">git pull
 </code></pre>
+
+<p>If you are still getting errors with pushing your local websiteWork repository or delaying the public repository, I recommend just deleting the repository all together and re-cloning (and setting up the public folder) from the beginning. It is very easy for git to become complicated and its easier to just start fresh with all the commits/branches up to date, which will be the case if you re-clone from remote.</p>
 
 <p>At this point, you can make your own changes to any of the websiteWork files and deploy, git add, git commit, and git push as you normally would.</p>
 
