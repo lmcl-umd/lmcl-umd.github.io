@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>https://lmcl-umd.github.io./authors/andres/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmcl-umd.github.io./authors/bob/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -68,6 +73,16 @@
   </url>
   
   <url>
+    <loc>https://lmcl-umd.github.io./publication/2021buxolugo/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./tags/emotional-speech/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmcl-umd.github.io./tags/grammatical-encoding/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -79,6 +94,11 @@
   
   <url>
     <loc>https://lmcl-umd.github.io./tags/lexical-access/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./tags/musical-intervals/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,6 +124,11 @@
   
   <url>
     <loc>https://lmcl-umd.github.io./authors/shota-momma/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmcl-umd.github.io./tags/speech-prosody/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1126,10 +1151,6 @@
   </url>
   
   <url>
-    <loc>https://lmcl-umd.github.io./authors/andres/</loc>
-  </url>
-  
-  <url>
     <loc>https://lmcl-umd.github.io./authors/bernstein/</loc>
   </url>
   
@@ -1222,27 +1243,7 @@
   </url>
   
   <url>
-    <loc>https://lmcl-umd.github.io./publication/2021buxolugo/</loc>
-  </url>
-  
-  <url>
     <loc>https://lmcl-umd.github.io./doc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lmcl-umd.github.io./tags/emotional-speech/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lmcl-umd.github.io./tags/musical-intervals/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lmcl-umd.github.io./authors/sam-santomartino/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lmcl-umd.github.io./tags/speech-prosody/</loc>
   </url>
   
 </urlset>
