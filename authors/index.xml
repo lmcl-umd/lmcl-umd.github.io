@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./authors/</link>
       <atom:link href="https://lmcl-umd.github.io./authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Authors</title>
@@ -14,19 +14,28 @@
     
     <item>
       <title></title>
-      <link>https://lmcl-umd.github.io./authors/andres/</link>
-      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/andres/</guid>
-      <description>&lt;p&gt;Andrés is a President&amp;rsquo;s Postdoctoral Fellow in the Psychology department at the University of Maryland. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.&lt;/p&gt;
+      <link>https://lmcl-umd.github.io./authors/bob/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/bob/</guid>
+      <description>&lt;p&gt;Bob Slevc is an Associate Professor and Director of Graduate Studies in the &lt;a href=&#34;https://psyc.umd.edu&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program and of the &lt;a href=&#34;http://languagescience.umd.edu&#34;&gt;Maryland Language Science Center&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lmcl-umd.github.io./authors/bob/</link>
+      <link>https://lmcl-umd.github.io./authors/salig/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/salig/</guid>
+      <description>&lt;p&gt;Lauren is a graduate student in the Neuroscience and Cognitive Science program. She is originally from Downingtown, Pennsylvania. Lauren received a bachelor&amp;rsquo;s degree in psychology and Spanish from Elon University in 2017 and spent a year after graduation in Neuquén, Argentina teaching English on a Fulbright grant. For her graduate studies, she is interested in researching language processing through an intercultural lens that considers how language processing might be affected by bilingualism, accents, code-switching, and the like.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lmcl-umd.github.io./authors/andres/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/bob/</guid>
-      <description>&lt;p&gt;Bob Slevc is an Associate Professor and Director of Graduate Studies in the &lt;a href=&#34;https://psyc.umd.edu&#34; target=&#34;_blank&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34; target=&#34;_blank&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program and of the &lt;a href=&#34;http://languagescience.umd.edu&#34; target=&#34;_blank&#34;&gt;Maryland Language Science Center&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://lmcl-umd.github.io./authors/andres/</guid>
+      <description>&lt;p&gt;Andrés is a President&amp;rsquo;s Postdoctoral Fellow in the Psychology department at the University of Maryland. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.&lt;/p&gt;
 </description>
     </item>
     
@@ -59,7 +68,7 @@
       <link>https://lmcl-umd.github.io./authors/ogg/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/ogg/</guid>
-      <description>&lt;p&gt;Mattson Ogg completed his Ph.D. in &lt;a href=&#34;https://nacs.umd.edu&#34; target=&#34;_blank&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; in April, 2019 (dissertation title: The acoustic factors that influence auditory object and event recognition over time). He is currently an audio/speech signal processing engineer at the &lt;a href=&#34;https://www.jhuapl.edu&#34; target=&#34;_blank&#34;&gt;Johns Hopkins University Applied Physics Laboratory&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Mattson Ogg completed his Ph.D. in &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; in April, 2019 (dissertation title: The acoustic factors that influence auditory object and event recognition over time). He is currently an audio/speech signal processing engineer at the &lt;a href=&#34;https://www.jhuapl.edu&#34;&gt;Johns Hopkins University Applied Physics Laboratory&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -68,7 +77,7 @@
       <link>https://lmcl-umd.github.io./authors/okada/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/okada/</guid>
-      <description>&lt;p&gt;Brooke Okada completed her Ph.D. in Psychology in August, 2018 (dissertation title: Toward a comprehensive model of musical ability). She is currently a data analyst at &lt;a href=&#34;https://www.syscolabs.com&#34; target=&#34;_blank&#34;&gt;Sisco LABS&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Brooke Okada completed her Ph.D. in Psychology in August, 2018 (dissertation title: Toward a comprehensive model of musical ability). She is currently a data analyst at &lt;a href=&#34;https://www.syscolabs.com&#34;&gt;Sisco LABS&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -253,7 +262,7 @@
       <link>https://lmcl-umd.github.io./authors/shell/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/shell/</guid>
-      <description>&lt;p&gt;Alison Shell completed her Ph.D. in Psychology in October, 2018 (dissertation title: The what And where of control in bilingual language switching). She is currently a research fellow at &lt;a href=&#34;https://digitalpromise.org&#34; target=&#34;_blank&#34;&gt;Digital Promise&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Alison Shell completed her Ph.D. in Psychology in October, 2018 (dissertation title: The what And where of control in bilingual language switching). She is currently a research fellow at &lt;a href=&#34;https://digitalpromise.org&#34;&gt;Digital Promise&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -521,15 +530,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/peabody/</guid>
       <description>&lt;p&gt;Lydia is an ambitious undergraduate student from Bethesda, Maryland studying Psychology with a minor in General Business. She has a passion for music and a curiosity about the science behind how it impacts our world.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lmcl-umd.github.io./authors/salig/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/salig/</guid>
-      <description>&lt;p&gt;Lauren is a graduate student in the Neuroscience and Cognitive Science program. She is originally from Downingtown, Pennsylvania. Lauren received a bachelor&amp;rsquo;s degree in psychology and Spanish from Elon University in 2017 and spent a year after graduation in Neuquén, Argentina teaching English on a Fulbright grant. For her graduate studies, she is interested in researching language processing through an intercultural lens that considers how language processing might be affected by bilingualism, accents, code-switching, and the like.&lt;/p&gt;
 </description>
     </item>
     
