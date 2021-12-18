@@ -5,12 +5,28 @@
     <link>https://lmcl-umd.github.io./tags/</link>
       <atom:link href="https://lmcl-umd.github.io./tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Tags</title>
       <link>https://lmcl-umd.github.io./tags/</link>
     </image>
+    
+    <item>
+      <title>Individual differences</title>
+      <link>https://lmcl-umd.github.io./tags/individual-differences/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/individual-differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musical ability</title>
+      <link>https://lmcl-umd.github.io./tags/musical-ability/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/musical-ability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bilingualism</title>
@@ -33,14 +49,6 @@
       <link>https://lmcl-umd.github.io./tags/executive-function/</link>
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/executive-function/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Individual differences</title>
-      <link>https://lmcl-umd.github.io./tags/individual-differences/</link>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/individual-differences/</guid>
       <description></description>
     </item>
     
@@ -125,6 +133,46 @@
     </item>
     
     <item>
+      <title>Auditory</title>
+      <link>https://lmcl-umd.github.io./tags/auditory/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/auditory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetoencephalography</title>
+      <link>https://lmcl-umd.github.io./tags/magnetoencephalography/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/magnetoencephalography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Pattern Analysis</title>
+      <link>https://lmcl-umd.github.io./tags/multivariate-pattern-analysis/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/multivariate-pattern-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Perception</title>
+      <link>https://lmcl-umd.github.io./tags/object-perception/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/object-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>representational similarity analysis</title>
+      <link>https://lmcl-umd.github.io./tags/representational-similarity-analysis/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/representational-similarity-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>aphasia</title>
       <link>https://lmcl-umd.github.io./tags/aphasia/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -133,50 +181,10 @@
     </item>
     
     <item>
-      <title>Auditory</title>
-      <link>https://lmcl-umd.github.io./tags/auditory/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/auditory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cognitive reserve</title>
       <link>https://lmcl-umd.github.io./tags/cognitive-reserve/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/cognitive-reserve/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Magnetoencephalography</title>
-      <link>https://lmcl-umd.github.io./tags/magnetoencephalography/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/magnetoencephalography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multivariate Pattern Analysis</title>
-      <link>https://lmcl-umd.github.io./tags/multivariate-pattern-analysis/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/multivariate-pattern-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Object Perception</title>
-      <link>https://lmcl-umd.github.io./tags/object-perception/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/object-perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>representational similarity analysis</title>
-      <link>https://lmcl-umd.github.io./tags/representational-similarity-analysis/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/representational-similarity-analysis/</guid>
       <description></description>
     </item>
     
@@ -409,14 +417,6 @@
       <link>https://lmcl-umd.github.io./tags/scope-of-planning/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/scope-of-planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Musical ability</title>
-      <link>https://lmcl-umd.github.io./tags/musical-ability/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/musical-ability/</guid>
       <description></description>
     </item>
     

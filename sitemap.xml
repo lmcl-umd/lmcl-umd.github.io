@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lmcl-umd.github.io./doc/example/calendars/</loc>
+    <lastmod>2021-12-15T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://lmcl-umd.github.io./doc/example/ra_info/</loc>
     <lastmod>2021-12-15T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./doc/example/bloginfo/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./doc/example/calendars/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./doc/example/imacsoftware/</loc>
@@ -32,19 +32,43 @@
     <loc>https://lmcl-umd.github.io./talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lmcl-umd.github.io./authors/bob/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./authors/okada/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication_types/1/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./authors/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/individual-differences/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/musical-ability/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication_types/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication/2021okada/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lmcl-umd.github.io./doc/</loc>
     <lastmod>2021-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./authors/bob/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/salig/</loc>
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./publication_types/2/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./authors/</loc>
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./tags/bilingualism/</loc>
@@ -54,9 +78,6 @@
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./tags/executive-function/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./tags/individual-differences/</loc>
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/jared-m.-novick/</loc>
@@ -69,15 +90,6 @@
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./publication/2021salig/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./publication_types/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./publication/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./tags/</loc>
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/andres/</loc>
@@ -126,12 +138,30 @@
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/ogg/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./tags/aphasia/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./tags/auditory/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/magnetoencephalography/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/multivariate-pattern-analysis/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/object-perception/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/representational-similarity-analysis/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication/2019ogg/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./authors/thomas-carlson/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/aphasia/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./tags/cognitive-reserve/</loc>
@@ -140,19 +170,7 @@
     <loc>https://lmcl-umd.github.io./authors/madeline-pifer/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./tags/magnetoencephalography/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./tags/multivariate-pattern-analysis/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./tags/object-perception/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmcl-umd.github.io./publication/2020faroqishah/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./tags/representational-similarity-analysis/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/sadhvi-saxena/</loc>
@@ -164,17 +182,8 @@
     <loc>https://lmcl-umd.github.io./tags/syntax/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./publication/2019ogg/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./authors/thomas-carlson/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmcl-umd.github.io./authors/yasmeen-faroqi-shah/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./authors/okada/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./tags/music/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
@@ -350,9 +359,6 @@
     <loc>https://lmcl-umd.github.io./authors/martin-buschkuehl/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./tags/musical-ability/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmcl-umd.github.io./authors/nicholas-s.-davey/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -517,9 +523,6 @@
   </url><url>
     <loc>https://lmcl-umd.github.io./tags/speech-perception-deficits/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./publication_types/1/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./tags/bilingual-language-production/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>

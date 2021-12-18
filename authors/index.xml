@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./authors/</link>
       <atom:link href="https://lmcl-umd.github.io./authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Authors</title>
@@ -15,9 +15,18 @@
     <item>
       <title></title>
       <link>https://lmcl-umd.github.io./authors/bob/</link>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/bob/</guid>
       <description>&lt;p&gt;Bob Slevc is an Associate Professor and Director of Graduate Studies in the &lt;a href=&#34;https://psyc.umd.edu&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program and of the &lt;a href=&#34;http://languagescience.umd.edu&#34;&gt;Maryland Language Science Center&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lmcl-umd.github.io./authors/okada/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/okada/</guid>
+      <description>&lt;p&gt;Brooke Okada completed her Ph.D. in Psychology in August, 2018 (dissertation title: Toward a comprehensive model of musical ability). She is currently a data analyst at &lt;a href=&#34;https://outschool.com/&#34;&gt;Outschool&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -82,10 +91,18 @@
     <item>
       <title></title>
       <link>https://lmcl-umd.github.io./authors/ogg/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/ogg/</guid>
       <description>&lt;p&gt;Mattson Ogg completed his Ph.D. in &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; in April, 2019 (dissertation title: The acoustic factors that influence auditory object and event recognition over time). He is currently an audio/speech signal processing engineer at the &lt;a href=&#34;https://www.jhuapl.edu&#34;&gt;Johns Hopkins University Applied Physics Laboratory&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Thomas Carlson</title>
+      <link>https://lmcl-umd.github.io./authors/thomas-carlson/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/thomas-carlson/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -113,28 +130,11 @@
     </item>
     
     <item>
-      <title>Thomas Carlson</title>
-      <link>https://lmcl-umd.github.io./authors/thomas-carlson/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/thomas-carlson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yasmeen Faroqi-Shah</title>
       <link>https://lmcl-umd.github.io./authors/yasmeen-faroqi-shah/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/yasmeen-faroqi-shah/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lmcl-umd.github.io./authors/okada/</link>
-      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/okada/</guid>
-      <description>&lt;p&gt;Brooke Okada completed her Ph.D. in Psychology in August, 2018 (dissertation title: Toward a comprehensive model of musical ability). She is currently a data analyst at &lt;a href=&#34;https://www.syscolabs.com&#34;&gt;Sisco LABS&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
