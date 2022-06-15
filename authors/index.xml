@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./authors/</link>
       <atom:link href="https://lmcl-umd.github.io./authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Authors</title>
@@ -15,10 +15,26 @@
     <item>
       <title></title>
       <link>https://lmcl-umd.github.io./authors/bob/</link>
-      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/bob/</guid>
       <description>&lt;p&gt;Bob Slevc is an Associate Professor and Director of Graduate Studies in the &lt;a href=&#34;https://psyc.umd.edu&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program and of the &lt;a href=&#34;http://languagescience.umd.edu&#34;&gt;Maryland Language Science Center&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Anthony Brandt</title>
+      <link>https://lmcl-umd.github.io./authors/anthony-brandt/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/anthony-brandt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molly Gebrian</title>
+      <link>https://lmcl-umd.github.io./authors/molly-gebrian/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/molly-gebrian/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -319,22 +335,6 @@
       <link>https://lmcl-umd.github.io./authors/jason-g.-reitman/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/jason-g.-reitman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anthony Brandt</title>
-      <link>https://lmcl-umd.github.io./authors/anthony-brandt/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/anthony-brandt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Molly Gebrian</title>
-      <link>https://lmcl-umd.github.io./authors/molly-gebrian/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/molly-gebrian/</guid>
       <description></description>
     </item>
     
