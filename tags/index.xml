@@ -5,12 +5,36 @@
     <link>https://lmcl-umd.github.io./tags/</link>
       <atom:link href="https://lmcl-umd.github.io./tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Tags</title>
       <link>https://lmcl-umd.github.io./tags/</link>
     </image>
+    
+    <item>
+      <title>Grammatical encoding</title>
+      <link>https://lmcl-umd.github.io./tags/grammatical-encoding/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/grammatical-encoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language production</title>
+      <link>https://lmcl-umd.github.io./tags/language-production/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/language-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax</title>
+      <link>https://lmcl-umd.github.io./tags/syntax/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/syntax/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>language acquisition</title>
@@ -117,14 +141,6 @@
     </item>
     
     <item>
-      <title>Grammatical encoding</title>
-      <link>https://lmcl-umd.github.io./tags/grammatical-encoding/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/grammatical-encoding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lexical access</title>
       <link>https://lmcl-umd.github.io./tags/lexical-access/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
@@ -209,14 +225,6 @@
       <link>https://lmcl-umd.github.io./tags/cognitive-reserve/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/cognitive-reserve/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax</title>
-      <link>https://lmcl-umd.github.io./tags/syntax/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/syntax/</guid>
       <description></description>
     </item>
     
@@ -337,14 +345,6 @@
       <link>https://lmcl-umd.github.io./tags/implicit-learning/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/implicit-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Language production</title>
-      <link>https://lmcl-umd.github.io./tags/language-production/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/language-production/</guid>
       <description></description>
     </item>
     
