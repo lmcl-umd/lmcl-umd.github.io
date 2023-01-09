@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./tags/</link>
       <atom:link href="https://lmcl-umd.github.io./tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Tags</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Grammatical encoding</title>
-      <link>https://lmcl-umd.github.io./tags/grammatical-encoding/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/grammatical-encoding/</guid>
+      <title>language comprehension</title>
+      <link>https://lmcl-umd.github.io./tags/language-comprehension/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/language-comprehension/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Language production</title>
       <link>https://lmcl-umd.github.io./tags/language-production/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/language-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psycholinguistics</title>
+      <link>https://lmcl-umd.github.io./tags/psycholinguistics/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/psycholinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntactic priming</title>
+      <link>https://lmcl-umd.github.io./tags/syntactic-priming/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/syntactic-priming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grammatical encoding</title>
+      <link>https://lmcl-umd.github.io./tags/grammatical-encoding/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/grammatical-encoding/</guid>
       <description></description>
     </item>
     
@@ -361,14 +385,6 @@
       <link>https://lmcl-umd.github.io./tags/short-term-memory/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/short-term-memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntactic priming</title>
-      <link>https://lmcl-umd.github.io./tags/syntactic-priming/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/syntactic-priming/</guid>
       <description></description>
     </item>
     

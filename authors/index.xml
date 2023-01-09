@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./authors/</link>
       <atom:link href="https://lmcl-umd.github.io./authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Authors</title>
@@ -14,8 +14,17 @@
     
     <item>
       <title></title>
+      <link>https://lmcl-umd.github.io./authors/andres/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/andres/</guid>
+      <description>&lt;p&gt;Andrés is an &lt;a href=&#34;https://arts-sciences.buffalo.edu/psychology/faculty/faculty-directory/buxo-lugo.html&#34;&gt;Assistant Professor at the University at Buffalo&lt;/a&gt;, following a stint here at Maryland as a President&amp;rsquo;s Postdoctoral Fellow. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://lmcl-umd.github.io./authors/bob/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/bob/</guid>
       <description>&lt;p&gt;Bob Slevc is an Associate Professor and Director of Graduate Studies in the &lt;a href=&#34;https://psyc.umd.edu&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program and of the &lt;a href=&#34;http://languagescience.umd.edu&#34;&gt;Maryland Language Science Center&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -69,15 +78,6 @@
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/jorge-r.-valdes-kroff/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lmcl-umd.github.io./authors/andres/</link>
-      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/andres/</guid>
-      <description>&lt;p&gt;Andrés is an &lt;a href=&#34;https://arts-sciences.buffalo.edu/psychology/faculty/faculty-directory/buxo-lugo.html&#34;&gt;Assistant Professor at the University at Buffalo&lt;/a&gt;, following a stint here at Maryland as a President&amp;rsquo;s Postdoctoral Fellow. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -462,15 +462,6 @@
     
     <item>
       <title></title>
-      <link>https://lmcl-umd.github.io./authors/jayaram/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/jayaram/</guid>
-      <description>&lt;p&gt;Jyotsna is a senior pursuing a Neurobiology/Physiology major with a minor in Professional Writing. She is passionate about mental health and hopes to become a psychiatrist in the future. In her free time, she enjoys writing (check out her published book, &lt;a href=&#34;https://smile.amazon.com/Kisumu-Dawn-Jyotsna-Jayaram/dp/1983784680/&#34;&gt;Kisumu Dawn&lt;/a&gt; on Amazon!), baking, playing the piano, and listening to music.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://lmcl-umd.github.io./authors/lulli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/lulli/</guid>
@@ -520,15 +511,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/tosh/</guid>
       <description>&lt;p&gt;Haley Tosh is a senior psychology major and neuroscience minor at University of Maryland. Following graduation, she plans to attend graduate school and study clinical cognitive psychology. Her academic interests focus on studying mental processes and treatment plans for those with neurodevelopmental disabilities. In her free time, she enjoys running, reading, and training her cat to do cool tricks!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lmcl-umd.github.io./authors/wexler/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/wexler/</guid>
-      <description>&lt;p&gt;Brooke is an undergraduate student at the University of Maryland, College Park pursuing a double major in psychology and communication. She hopes to attend grad school after graduation and pursue a career in the Sports Psychology field.&lt;/p&gt;
 </description>
     </item>
     

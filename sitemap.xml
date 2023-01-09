@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lmcl-umd.github.io./doc/example/calendars/</loc>
-    <lastmod>2021-12-15T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://lmcl-umd.github.io./doc/example/ra_info/</loc>
+    <lastmod>2023-01-09T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./doc/example/calendars/</loc>
     <lastmod>2021-12-15T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./doc/example/bloginfo/</loc>
@@ -32,13 +32,46 @@
     <loc>https://lmcl-umd.github.io./talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./authors/bob/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <loc>https://lmcl-umd.github.io./authors/andres/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./publication_types/6/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <loc>https://lmcl-umd.github.io./authors/bob/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication_types/2/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication/2023buxolugo/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/language-comprehension/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/language-production/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/psycholinguistics/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication_types/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/syntactic-priming/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./doc/</loc>
+    <lastmod>2023-01-09T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication_types/6/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./publication/2022slevc/</loc>
@@ -47,19 +80,7 @@
     <loc>https://lmcl-umd.github.io./tags/grammatical-encoding/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./tags/language-production/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./publication_types/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./publication/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmcl-umd.github.io./tags/syntax/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./tags/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/anthony-brandt/</loc>
@@ -98,13 +119,7 @@
     <loc>https://lmcl-umd.github.io./publication/2021okada/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./doc/</loc>
-    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmcl-umd.github.io./authors/salig/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./publication_types/2/</loc>
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./tags/bilingualism/</loc>
@@ -127,9 +142,6 @@
   </url><url>
     <loc>https://lmcl-umd.github.io./publication/2021salig/</loc>
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./authors/andres/</loc>
-    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./publication/2021buxolugo/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
@@ -317,9 +329,6 @@
     <loc>https://lmcl-umd.github.io./tags/short-term-memory/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./tags/syntactic-priming/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmcl-umd.github.io./authors/adam-morgan/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -419,16 +428,19 @@
     <loc>https://lmcl-umd.github.io./project/17_18_alum2/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./project/19_21_alum/</loc>
+    <loc>https://lmcl-umd.github.io./project/19_22_alum/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./project/19_21_alum2/</loc>
+    <loc>https://lmcl-umd.github.io./project/19_22_alum2/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./project/19_21_alum3/</loc>
+    <loc>https://lmcl-umd.github.io./project/19_22_alum3/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./project/19_21_alum4/</loc>
+    <loc>https://lmcl-umd.github.io./project/19_22_alum4/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./project/19_22_alum5/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./years/2015-2016/</loc>
@@ -440,7 +452,7 @@
     <loc>https://lmcl-umd.github.io./years/2017-2018/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmcl-umd.github.io./years/2019-2021/</loc>
+    <loc>https://lmcl-umd.github.io./years/2019-2022/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./project/</loc>
@@ -732,8 +744,6 @@
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/bakhtiari/</loc>
   </url><url>
-    <loc>https://lmcl-umd.github.io./authors/jayaram/</loc>
-  </url><url>
     <loc>https://lmcl-umd.github.io./authors/lulli/</loc>
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/marcinelli/</loc>
@@ -745,8 +755,6 @@
     <loc>https://lmcl-umd.github.io./authors/thompson/</loc>
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/tosh/</loc>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./authors/wexler/</loc>
   </url><url>
     <loc>https://lmcl-umd.github.io./project/11_14_alum/</loc>
   </url><url>
