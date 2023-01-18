@@ -84,7 +84,7 @@ System Requirements: In order to edit and update the website, you must have the 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.7676ede6009624f59a793b417e5f97a3.css">
+  <link rel="stylesheet" href="/css/academic.min.134d8f7a6cb123b41b4e58b4e5e8c10f.css">
 
   
     
@@ -254,7 +254,7 @@ System Requirements: In order to edit and update the website, you must have the 
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publications/"><span>Publications</span></a>
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
         </li>
 
         
@@ -472,66 +472,65 @@ System Requirements: In order to edit and update the website, you must have the 
 <p><b> Note: You will only ever have to change code in websiteWork and that will automatically update the live code in the lmcl-umd.github.io. repository. </b></p>
 <h3 id="editingupdating-the-website">Editing/Updating the Website:</h3>
 <p>In order to edit the website, you must clone the websiteWork repository from git onto your local machine. When you clone the websiteWork repository, the &ldquo;public&rdquo; folder from the code will also be copied onto your machine. This folder, in layman&rsquo;s terms, manages the updates to the site repository. In order to clone and set up this automatic updating, you must follow the steps below:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#ae81ff">1.</span> open a terminal on your computer 
-<span style="color:#ae81ff">2.</span> navigate to the folder<span style="color:#f92672">/</span>directory <span style="color:#f92672">in</span> which you wish to download the websiteWork repository
-<span style="color:#ae81ff">3.</span> use the following command to clone the websiteWork repository onto your local machine: 
-git clone https:<span style="color:#f92672">//</span>github<span style="color:#f92672">.</span>com<span style="color:#f92672">/</span>lmcl<span style="color:#f92672">-</span>umd<span style="color:#f92672">/</span>websiteWork<span style="color:#f92672">.</span>git
-<span style="color:#ae81ff">4.</span> navigate into the websiteWork directory
-cd websiteWork
-<span style="color:#ae81ff">5.</span> completely remove the current public directory so that you may set up your own tracking to the remote repository
-git rm <span style="color:#f92672">-</span>r <span style="color:#f92672">--</span>cached public
-<span style="color:#ae81ff">6.</span> creates a git submodule, this builds your site to public where the created public directory will have a different remote origin (i<span style="color:#f92672">.</span>e<span style="color:#f92672">.</span> hosted GitHub repository)
-git submodule add <span style="color:#f92672">-</span>b master git<span style="color:#a6e22e">@github</span><span style="color:#f92672">.</span>com:lmcl<span style="color:#f92672">-</span>umd<span style="color:#f92672">/</span>lmcl<span style="color:#f92672">-</span>umd<span style="color:#f92672">.</span>github<span style="color:#f92672">.</span>io<span style="color:#f92672">.</span>git public
-<span style="color:#ae81ff">7.</span> run the first build of public
-hugo
-</code></pre></div><p>After the website files are locally on your machine and your public directory is set up, you can make changes that will be visible both locally and on the master site. Any time you make changes in the local, websiteWork repository (any of the websiteWork files), you will follow the steps below to deploy these changes to the public repository (i.e. the website):</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#ae81ff">1.</span> make sure your local repository matches <span style="color:#66d9ef">with</span> the remote repository, pull any new changes
-git pull
-<span style="color:#ae81ff">2.</span> see what changes have been made
-git status
-<span style="color:#ae81ff">3.</span> add all these changes to git <span style="color:#66d9ef">for</span> tracking
-git add <span style="color:#f92672">*</span>
-<span style="color:#ae81ff">4.</span> commit your changes to be made
-git commit <span style="color:#f92672">-</span>m <span style="color:#e6db74">&#34;your commit message here&#34;</span>
-<span style="color:#ae81ff">5.</span> push these changes to the local websiteWork repository 
-git push
-<span style="color:#ae81ff">6.</span> deploy these changes to the public repository (i<span style="color:#f92672">.</span>e<span style="color:#f92672">.</span> the live website)
-<span style="color:#f92672">./</span>deploy<span style="color:#f92672">.</span>sh <span style="color:#e6db74">&#34;Your commit message&#34;</span>
-</code></pre></div><p>This deploy command will push your edits to the lmcl-umd.github.io. repository and after a couple of minutes, your changes will appear on the live website.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#ae81ff">1.</span> open a terminal on your computer 
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">2.</span> navigate to the folder<span style="color:#f92672">/</span>directory <span style="color:#f92672">in</span> which you wish to download the websiteWork repository
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">3.</span> use the following command to clone the websiteWork repository onto your local machine: 
+</span></span><span style="display:flex;"><span>git clone https:<span style="color:#f92672">//</span>github<span style="color:#f92672">.</span>com<span style="color:#f92672">/</span>lmcl<span style="color:#f92672">-</span>umd<span style="color:#f92672">/</span>websiteWork<span style="color:#f92672">.</span>git
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">4.</span> navigate into the websiteWork directory
+</span></span><span style="display:flex;"><span>cd websiteWork
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">5.</span> completely remove the current public directory so that you may set up your own tracking to the remote repository
+</span></span><span style="display:flex;"><span>git rm <span style="color:#f92672">-</span>r <span style="color:#f92672">--</span>cached public
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">6.</span> creates a git submodule, this builds your site to public where the created public directory will have a different remote origin (i<span style="color:#f92672">.</span>e<span style="color:#f92672">.</span> hosted GitHub repository)
+</span></span><span style="display:flex;"><span>git submodule add <span style="color:#f92672">-</span>b master git<span style="color:#a6e22e">@github.com</span>:lmcl<span style="color:#f92672">-</span>umd<span style="color:#f92672">/</span>lmcl<span style="color:#f92672">-</span>umd<span style="color:#f92672">.</span>github<span style="color:#f92672">.</span>io<span style="color:#f92672">.</span>git public
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">7.</span> run the first build of public
+</span></span><span style="display:flex;"><span>hugo
+</span></span></code></pre></div><p>After the website files are locally on your machine and your public directory is set up, you can make changes that will be visible both locally and on the master site. Any time you make changes in the local, websiteWork repository (any of the websiteWork files), you will follow the steps below to deploy these changes to the public repository (i.e. the website):</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#ae81ff">1.</span> make sure your local repository matches <span style="color:#66d9ef">with</span> the remote repository, pull any new changes
+</span></span><span style="display:flex;"><span>git pull
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">2.</span> see what changes have been made
+</span></span><span style="display:flex;"><span>git status
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">3.</span> add all these changes to git <span style="color:#66d9ef">for</span> tracking
+</span></span><span style="display:flex;"><span>git add <span style="color:#f92672">*</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">4.</span> commit your changes to be made
+</span></span><span style="display:flex;"><span>git commit <span style="color:#f92672">-</span>m <span style="color:#e6db74">&#34;your commit message here&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">5.</span> push these changes to the local websiteWork repository 
+</span></span><span style="display:flex;"><span>git push
+</span></span><span style="display:flex;"><span><span style="color:#ae81ff">6.</span> deploy these changes to the public repository (i<span style="color:#f92672">.</span>e<span style="color:#f92672">.</span> the live website)
+</span></span><span style="display:flex;"><span><span style="color:#f92672">./</span>deploy<span style="color:#f92672">.</span>sh <span style="color:#e6db74">&#34;Your commit message&#34;</span>
+</span></span></code></pre></div><p>This deploy command will push your edits to the lmcl-umd.github.io. repository and after a couple of minutes, your changes will appear on the live website.</p>
 <p>In order to clone and push edits via git, you must first have git set up on your computer and <a href="https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account">authenticate our lmcl-umd GitHub</a> account via your computer&rsquo;s unique SSH key.</p>
 <h3 id="helpful-git-commands">Helpful Git Commands:</h3>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># clone the repository</span>
-git clone https:<span style="color:#f92672">//</span>github<span style="color:#f92672">.</span>com<span style="color:#f92672">/</span>lmcl<span style="color:#f92672">-</span>umd<span style="color:#f92672">/</span>websiteWork<span style="color:#f92672">.</span>git
-
-<span style="color:#75715e"># make sure you have the most recent version of the repository on your local machine</span>
-git pull
-
-<span style="color:#75715e"># deploy edits to lmcl-umd.github.io. repository</span>
-<span style="color:#75715e"># your commit message should describe the edits made </span>
-<span style="color:#f92672">./</span>deploy<span style="color:#f92672">.</span>sh <span style="color:#e6db74">&#34;your commit message&#34;</span>
-
-<span style="color:#75715e"># add edits to websiteWork repository</span>
-git add <span style="color:#f92672">*</span>
-
-<span style="color:#75715e"># commit edits to websiteWork repository</span>
-<span style="color:#75715e"># your commit message should describe the edits made </span>
-git commit <span style="color:#f92672">-</span>m <span style="color:#e6db74">&#34;your commit message&#34;</span>
-
-<span style="color:#75715e"># push edits to websiteWork repository</span>
-git push 
-
-<span style="color:#75715e"># see what edits you have made</span>
-git staus 
-
-</code></pre></div><h3 id="multiple-git-users">Multiple Git Users:</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#75715e"># clone the repository</span>
+</span></span><span style="display:flex;"><span>git clone https:<span style="color:#f92672">//</span>github<span style="color:#f92672">.</span>com<span style="color:#f92672">/</span>lmcl<span style="color:#f92672">-</span>umd<span style="color:#f92672">/</span>websiteWork<span style="color:#f92672">.</span>git
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># make sure you have the most recent version of the repository on your local machine</span>
+</span></span><span style="display:flex;"><span>git pull
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># deploy edits to lmcl-umd.github.io. repository</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># your commit message should describe the edits made </span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">./</span>deploy<span style="color:#f92672">.</span>sh <span style="color:#e6db74">&#34;your commit message&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># add edits to websiteWork repository</span>
+</span></span><span style="display:flex;"><span>git add <span style="color:#f92672">*</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># commit edits to websiteWork repository</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># your commit message should describe the edits made </span>
+</span></span><span style="display:flex;"><span>git commit <span style="color:#f92672">-</span>m <span style="color:#e6db74">&#34;your commit message&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># push edits to websiteWork repository</span>
+</span></span><span style="display:flex;"><span>git push 
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># see what edits you have made</span>
+</span></span><span style="display:flex;"><span>git staus 
+</span></span></code></pre></div><h3 id="multiple-git-users">Multiple Git Users:</h3>
 <p>If there are multiple users updating the website from multiple devices, the websiteWork repository on your local machine may be out of date from time to time. To ensure that you always have the most up to date version of the website code, you must &ldquo;pull&rdquo; it down from the repository <b>before</b> you make any changes yourself.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">git pull
-</code></pre></div><p>Read the output of this code carefully. If the word &ldquo;error&rdquo; or &ldquo;aborting&rdquo; is present after you try to pull the websiteWork repository, something went wrong. The most likely problem is that there are some untracked files between the two versions of code (the version in the repository and the version on your local machine) and git is unable to merge them. To resolve this issue, run the following two code snippets:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">git fetch <span style="color:#f92672">--</span>all
-git reset <span style="color:#f92672">--</span>hard origin<span style="color:#f92672">/</span>master
-</code></pre></div><p>Now, you should be able to run the pull command again and successfully get an updated version of the code.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">git pull
-</code></pre></div><p>If you are still getting errors with pushing your local websiteWork repository or delaying the public repository, I recommend just deleting the repository all together and re-cloning (and setting up the public folder) from the beginning. It is very easy for git to become complicated and its easier to just start fresh with all the commits/branches up to date, which will be the case if you re-clone from remote.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>git pull
+</span></span></code></pre></div><p>Read the output of this code carefully. If the word &ldquo;error&rdquo; or &ldquo;aborting&rdquo; is present after you try to pull the websiteWork repository, something went wrong. The most likely problem is that there are some untracked files between the two versions of code (the version in the repository and the version on your local machine) and git is unable to merge them. To resolve this issue, run the following two code snippets:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>git fetch <span style="color:#f92672">--</span>all
+</span></span><span style="display:flex;"><span>git reset <span style="color:#f92672">--</span>hard origin<span style="color:#f92672">/</span>master
+</span></span></code></pre></div><p>Now, you should be able to run the pull command again and successfully get an updated version of the code.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>git pull
+</span></span></code></pre></div><p>If you are still getting errors with pushing your local websiteWork repository or delaying the public repository, I recommend just deleting the repository all together and re-cloning (and setting up the public folder) from the beginning. It is very easy for git to become complicated and its easier to just start fresh with all the commits/branches up to date, which will be the case if you re-clone from remote.</p>
 <p>At this point, you can make your own changes to any of the websiteWork files and deploy, git add, git commit, and git push as you normally would.</p>
 <h3 id="code-organization">Code Organization:</h3>
 <p>After you clone the websiteWork repository, you will see a folder called &ldquo;websiteWork&rdquo; on your computer. Within that folder are many, many subdirectories. The main folders most relevant for editing, however, are:</p>
@@ -544,10 +543,10 @@ git reset <span style="color:#f92672">--</span>hard origin<span style="color:#f9
 <h3 id="make-edits-without-deploying">Make Edits without Deploying</h3>
 <p>What if you want to just play around and see how something will look before actually deploying to the website?</p>
 <p>We also have a version of the website&rsquo;s code (and example code) on DropBox. This code is not live and can be run locally. Enter the <b>lmclSite</b> folder via the terminal and then type the command</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">hugo server
-</code></pre></div><p>Next open a web-browser and type</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">localhost:<span style="color:#ae81ff">1313</span>
-</code></pre></div><p>The code will render in the browser.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>hugo server
+</span></span></code></pre></div><p>Next open a web-browser and type</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>localhost:<span style="color:#ae81ff">1313</span>
+</span></span></code></pre></div><p>The code will render in the browser.</p>
 <p>For access to the DropBox code, contact Dr. Slevc and you will be granted access for editing.</p>
 
           </div>
@@ -709,7 +708,7 @@ git reset <span style="color:#f92672">--</span>hard origin<span style="color:#f9
     
     
     
-    <script src="/js/academic.min.79cde727381432dafc7975b7bb0ac737.js"></script>
+    <script src="/js/academic.min.64d15dce4f48e01d6e865a5c39aed307.js"></script>
 
     
 
