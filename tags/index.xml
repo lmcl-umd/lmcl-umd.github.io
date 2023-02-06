@@ -45,17 +45,9 @@
     </item>
     
     <item>
-      <title>outreach</title>
-      <link>https://lmcl-umd.github.io./tags/outreach/</link>
-      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/outreach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Grammatical encoding</title>
       <link>https://lmcl-umd.github.io./tags/grammatical-encoding/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/grammatical-encoding/</guid>
       <description></description>
     </item>
@@ -63,8 +55,16 @@
     <item>
       <title>Syntax</title>
       <link>https://lmcl-umd.github.io./tags/syntax/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outreach</title>
+      <link>https://lmcl-umd.github.io./tags/outreach/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/outreach/</guid>
       <description></description>
     </item>
     
@@ -629,18 +629,18 @@
     </item>
     
     <item>
-      <title>retrieval interference</title>
-      <link>https://lmcl-umd.github.io./tags/retrieval-interference/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/retrieval-interference/</guid>
+      <title>language</title>
+      <link>https://lmcl-umd.github.io./tags/language/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/language/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>language</title>
-      <link>https://lmcl-umd.github.io./tags/language/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/language/</guid>
+      <title>retrieval interference</title>
+      <link>https://lmcl-umd.github.io./tags/retrieval-interference/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/retrieval-interference/</guid>
       <description></description>
     </item>
     

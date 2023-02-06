@@ -71,6 +71,18 @@
     <loc>https://lmcl-umd.github.io./doc/</loc>
     <lastmod>2023-01-09T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>https://lmcl-umd.github.io./publication_types/6/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/grammatical-encoding/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication/2022slevc/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/syntax/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lmcl-umd.github.io./authors/salig/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -88,18 +100,6 @@
   </url><url>
     <loc>https://lmcl-umd.github.io./publication/2022oppenheimer/</loc>
     <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./publication_types/6/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./tags/grammatical-encoding/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./publication/2022slevc/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./tags/syntax/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/anthony-brandt/</loc>
     <lastmod>2022-06-15T00:00:00+00:00</lastmod>
@@ -458,6 +458,9 @@
     <loc>https://lmcl-umd.github.io./project/19_22_alum5/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lmcl-umd.github.io./project/19_22_alum6/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lmcl-umd.github.io./years/2015-2016/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -578,14 +581,20 @@
     <loc>https://lmcl-umd.github.io./authors/jared-linck/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lmcl-umd.github.io./publication_types/0/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./publication/2014slevc2/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmcl-umd.github.io./tags/language/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lmcl-umd.github.io./publication/2014martin/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./tags/retrieval-interference/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmcl-umd.github.io./tags/language/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/nikolaus-kriegeskorte/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
@@ -767,9 +776,9 @@
   </url><url>
     <loc>https://lmcl-umd.github.io./authors/menendez/</loc>
   </url><url>
-    <loc>https://lmcl-umd.github.io./authors/thompson/</loc>
+    <loc>https://lmcl-umd.github.io./authors/shine/</loc>
   </url><url>
-    <loc>https://lmcl-umd.github.io./authors/tosh/</loc>
+    <loc>https://lmcl-umd.github.io./authors/thompson/</loc>
   </url><url>
     <loc>https://lmcl-umd.github.io./project/11_14_alum/</loc>
   </url><url>
