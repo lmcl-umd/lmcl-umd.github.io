@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./authors/</link>
       <atom:link href="https://lmcl-umd.github.io./authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://lmcl-umd.github.io./authors/andres/</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/andres/</guid>
       <description>&lt;p&gt;Andrés is an &lt;a href=&#34;https://arts-sciences.buffalo.edu/psychology/faculty/faculty-directory/buxo-lugo.html&#34;&gt;Assistant Professor at the University at Buffalo&lt;/a&gt;, following a stint here at Maryland as a President&amp;rsquo;s Postdoctoral Fellow. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.&lt;/p&gt;
 </description>
@@ -24,19 +24,51 @@
     <item>
       <title></title>
       <link>https://lmcl-umd.github.io./authors/bob/</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/bob/</guid>
       <description>&lt;p&gt;Bob Slevc is an Associate Professor and Director of Graduate Studies in the &lt;a href=&#34;https://psyc.umd.edu&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program and of the &lt;a href=&#34;http://languagescience.umd.edu&#34;&gt;Maryland Language Science Center&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Cassandra L. Jacobs</title>
+      <link>https://lmcl-umd.github.io./authors/cassandra-l.-jacobs/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/cassandra-l.-jacobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leon Li</title>
+      <link>https://lmcl-umd.github.io./authors/leon-li/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/leon-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://lmcl-umd.github.io./authors/salig/</link>
-      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/salig/</guid>
       <description>&lt;p&gt;Lauren is a graduate student in the Neuroscience and Cognitive Science program. She is originally from Downingtown, Pennsylvania. Lauren received a bachelor&amp;rsquo;s degree in psychology and Spanish from Elon University in 2017 and spent a year after graduation in Neuquén, Argentina teaching English on a Fulbright grant. For her graduate studies, she is interested in researching language processing through an intercultural lens that considers how language processing might be affected by bilingualism, accents, code-switching, and the like.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jared M. Novick</title>
+      <link>https://lmcl-umd.github.io./authors/jared-m.-novick/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/jared-m.-novick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorge R. Valdés Kroff</title>
+      <link>https://lmcl-umd.github.io./authors/jorge-r.-valdes-kroff/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/jorge-r.-valdes-kroff/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -86,22 +118,6 @@
       <guid>https://lmcl-umd.github.io./authors/okada/</guid>
       <description>&lt;p&gt;Brooke Okada completed her Ph.D. in Psychology in August, 2018 (dissertation title: Toward a comprehensive model of musical ability). She is currently a data analyst at &lt;a href=&#34;https://outschool.com/&#34;&gt;Outschool&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Jared M. Novick</title>
-      <link>https://lmcl-umd.github.io./authors/jared-m.-novick/</link>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/jared-m.-novick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jorge R. Valdés Kroff</title>
-      <link>https://lmcl-umd.github.io./authors/jorge-r.-valdes-kroff/</link>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/jorge-r.-valdes-kroff/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -282,14 +298,6 @@
     </item>
     
     <item>
-      <title>Leon Li</title>
-      <link>https://lmcl-umd.github.io./authors/leon-li/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/leon-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jared A. Linck</title>
       <link>https://lmcl-umd.github.io./authors/jared-a.-linck/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
@@ -363,14 +371,6 @@
     </item>
     
     <item>
-      <title>Randi C Martin</title>
-      <link>https://lmcl-umd.github.io./authors/randi-c-martin/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/randi-c-martin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aniruddh D.Patel</title>
       <link>https://lmcl-umd.github.io./authors/aniruddh-d.patel/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
@@ -391,14 +391,6 @@
       <link>https://lmcl-umd.github.io./authors/marc-f.-joanisse/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/marc-f.-joanisse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Randi C.Martin</title>
-      <link>https://lmcl-umd.github.io./authors/randi-c.martin/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/randi-c.martin/</guid>
       <description></description>
     </item>
     

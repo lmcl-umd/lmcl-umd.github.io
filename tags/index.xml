@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./tags/</link>
       <atom:link href="https://lmcl-umd.github.io./tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Tags</title>
@@ -13,18 +13,82 @@
     </image>
     
     <item>
-      <title>language comprehension</title>
-      <link>https://lmcl-umd.github.io./tags/language-comprehension/</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/language-comprehension/</guid>
+      <title>Language production</title>
+      <link>https://lmcl-umd.github.io./tags/language-production/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/language-production/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Language production</title>
-      <link>https://lmcl-umd.github.io./tags/language-production/</link>
+      <title>mental lexicon</title>
+      <link>https://lmcl-umd.github.io./tags/mental-lexicon/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/mental-lexicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>picture-word interference task</title>
+      <link>https://lmcl-umd.github.io./tags/picture-word-interference-task/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/picture-word-interference-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polysemy</title>
+      <link>https://lmcl-umd.github.io./tags/polysemy/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/polysemy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bilingualism</title>
+      <link>https://lmcl-umd.github.io./tags/bilingualism/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/bilingualism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code-switching types</title>
+      <link>https://lmcl-umd.github.io./tags/code-switching-types/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/code-switching-types/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comprehension</title>
+      <link>https://lmcl-umd.github.io./tags/comprehension/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/comprehension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistical learning</title>
+      <link>https://lmcl-umd.github.io./tags/statistical-learning/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/statistical-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>switch costs</title>
+      <link>https://lmcl-umd.github.io./tags/switch-costs/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/switch-costs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language comprehension</title>
+      <link>https://lmcl-umd.github.io./tags/language-comprehension/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/language-production/</guid>
+      <guid>https://lmcl-umd.github.io./tags/language-comprehension/</guid>
       <description></description>
     </item>
     
@@ -113,14 +177,6 @@
       <link>https://lmcl-umd.github.io./tags/musical-ability/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/musical-ability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bilingualism</title>
-      <link>https://lmcl-umd.github.io./tags/bilingualism/</link>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/bilingualism/</guid>
       <description></description>
     </item>
     
@@ -497,14 +553,6 @@
       <link>https://lmcl-umd.github.io./tags/meaning/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/meaning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polysemy</title>
-      <link>https://lmcl-umd.github.io./tags/polysemy/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/polysemy/</guid>
       <description></description>
     </item>
     
