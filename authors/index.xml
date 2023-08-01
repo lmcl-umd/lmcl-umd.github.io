@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./authors/</link>
       <atom:link href="https://lmcl-umd.github.io./authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Authors</title>
@@ -14,11 +14,36 @@
     
     <item>
       <title></title>
+      <link>https://lmcl-umd.github.io./authors/andres/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/andres/</guid>
+      <description>&lt;p&gt;Andrés is an &lt;a href=&#34;https://arts-sciences.buffalo.edu/psychology/faculty/faculty-directory/buxo-lugo.html&#34;&gt;Assistant Professor at the University at Buffalo&lt;/a&gt;, following a stint here at Maryland as a President&amp;rsquo;s Postdoctoral Fellow. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://lmcl-umd.github.io./authors/bob/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/bob/</guid>
       <description>&lt;p&gt;Bob Slevc is an Associate Professor and Director of Graduate Studies in the &lt;a href=&#34;https://psyc.umd.edu&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program and of the &lt;a href=&#34;http://languagescience.umd.edu&#34;&gt;Maryland Language Science Center&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Cassandra L. Jacobs</title>
+      <link>https://lmcl-umd.github.io./authors/cassandra-l.-jacobs/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/cassandra-l.-jacobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leon Li</title>
+      <link>https://lmcl-umd.github.io./authors/leon-li/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/leon-li/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -43,31 +68,6 @@
       <link>https://lmcl-umd.github.io./authors/jorge-r.-valdes-kroff/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/jorge-r.-valdes-kroff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lmcl-umd.github.io./authors/andres/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/andres/</guid>
-      <description>&lt;p&gt;Andrés is an &lt;a href=&#34;https://arts-sciences.buffalo.edu/psychology/faculty/faculty-directory/buxo-lugo.html&#34;&gt;Assistant Professor at the University at Buffalo&lt;/a&gt;, following a stint here at Maryland as a President&amp;rsquo;s Postdoctoral Fellow. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cassandra L. Jacobs</title>
-      <link>https://lmcl-umd.github.io./authors/cassandra-l.-jacobs/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/cassandra-l.-jacobs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leon Li</title>
-      <link>https://lmcl-umd.github.io./authors/leon-li/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/leon-li/</guid>
       <description></description>
     </item>
     

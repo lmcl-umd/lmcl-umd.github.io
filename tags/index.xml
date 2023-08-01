@@ -5,12 +5,44 @@
     <link>https://lmcl-umd.github.io./tags/</link>
       <atom:link href="https://lmcl-umd.github.io./tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Tags</title>
       <link>https://lmcl-umd.github.io./tags/</link>
     </image>
+    
+    <item>
+      <title>Language production</title>
+      <link>https://lmcl-umd.github.io./tags/language-production/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/language-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mental lexicon</title>
+      <link>https://lmcl-umd.github.io./tags/mental-lexicon/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/mental-lexicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>picture-word interference task</title>
+      <link>https://lmcl-umd.github.io./tags/picture-word-interference-task/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/picture-word-interference-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polysemy</title>
+      <link>https://lmcl-umd.github.io./tags/polysemy/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/polysemy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bilingualism</title>
@@ -49,38 +81,6 @@
       <link>https://lmcl-umd.github.io./tags/switch-costs/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/switch-costs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Language production</title>
-      <link>https://lmcl-umd.github.io./tags/language-production/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/language-production/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mental lexicon</title>
-      <link>https://lmcl-umd.github.io./tags/mental-lexicon/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/mental-lexicon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>picture-word interference task</title>
-      <link>https://lmcl-umd.github.io./tags/picture-word-interference-task/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/picture-word-interference-task/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polysemy</title>
-      <link>https://lmcl-umd.github.io./tags/polysemy/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/polysemy/</guid>
       <description></description>
     </item>
     
