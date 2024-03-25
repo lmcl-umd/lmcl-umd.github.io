@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./authors/</link>
       <atom:link href="https://lmcl-umd.github.io./authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Authors</title>
@@ -14,19 +14,83 @@
     
     <item>
       <title></title>
-      <link>https://lmcl-umd.github.io./authors/andres/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/andres/</guid>
-      <description>&lt;p&gt;Andrés is an &lt;a href=&#34;https://arts-sciences.buffalo.edu/psychology/faculty/faculty-directory/buxo-lugo.html&#34;&gt;Assistant Professor at the University at Buffalo&lt;/a&gt;, following a stint here at Maryland as a President&amp;rsquo;s Postdoctoral Fellow. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.&lt;/p&gt;
+      <link>https://lmcl-umd.github.io./authors/bob/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/bob/</guid>
+      <description>&lt;p&gt;Bob Slevc is an Associate Professor and Director of Graduate Studies in the &lt;a href=&#34;https://psyc.umd.edu&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program and of the &lt;a href=&#34;http://languagescience.umd.edu&#34;&gt;Maryland Language Science Center&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Adena Schachner</title>
+      <link>https://lmcl-umd.github.io./authors/adena-schachner/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/adena-schachner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anja-Xiaoxing Cui</title>
+      <link>https://lmcl-umd.github.io./authors/anja-xiaoxing-cui/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/anja-xiaoxing-cui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bre-Anna K. Owusu</title>
+      <link>https://lmcl-umd.github.io./authors/bre-anna-k.-owusu/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/bre-anna-k.-owusu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominique T. Vuvan</title>
+      <link>https://lmcl-umd.github.io./authors/dominique-t.-vuvan/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/dominique-t.-vuvan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerardo Lopez</title>
+      <link>https://lmcl-umd.github.io./authors/gerardo-lopez/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/gerardo-lopez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miriam D. Lense</title>
+      <link>https://lmcl-umd.github.io./authors/miriam-d.-lense/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/miriam-d.-lense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swathi Swaminathan</title>
+      <link>https://lmcl-umd.github.io./authors/swathi-swaminathan/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/swathi-swaminathan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanushree Agrawal</title>
+      <link>https://lmcl-umd.github.io./authors/tanushree-agrawal/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/tanushree-agrawal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>https://lmcl-umd.github.io./authors/bob/</link>
+      <link>https://lmcl-umd.github.io./authors/andres/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/bob/</guid>
-      <description>&lt;p&gt;Bob Slevc is an Associate Professor and Director of Graduate Studies in the &lt;a href=&#34;https://psyc.umd.edu&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program and of the &lt;a href=&#34;http://languagescience.umd.edu&#34;&gt;Maryland Language Science Center&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://lmcl-umd.github.io./authors/andres/</guid>
+      <description>&lt;p&gt;Andrés is an &lt;a href=&#34;https://arts-sciences.buffalo.edu/psychology/faculty/faculty-directory/buxo-lugo.html&#34;&gt;Assistant Professor at the University at Buffalo&lt;/a&gt;, following a stint here at Maryland as a President&amp;rsquo;s Postdoctoral Fellow. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.&lt;/p&gt;
 </description>
     </item>
     
