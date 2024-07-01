@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mingjiang Sun | LMCL</title>
+    <link>https://lmcl-umd.github.io./authors/mingjiang-sun/</link>
+      <atom:link href="https://lmcl-umd.github.io./authors/mingjiang-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mingjiang Sun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmcl-umd.github.io./img/logo3.png</url>
+      <title>Mingjiang Sun</title>
+      <link>https://lmcl-umd.github.io./authors/mingjiang-sun/</link>
+    </image>
+    
+    <item>
+      <title>ERP evidence for cross-domain prosodic priming from music to speech</title>
+      <link>https://lmcl-umd.github.io./publication/2024sun/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2024sun/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
