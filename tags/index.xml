@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./tags/</link>
       <atom:link href="https://lmcl-umd.github.io./tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Tags</title>
@@ -13,18 +13,90 @@
     </image>
     
     <item>
-      <title>language</title>
-      <link>https://lmcl-umd.github.io./tags/language/</link>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/language/</guid>
+      <title>Individual differences</title>
+      <link>https://lmcl-umd.github.io./tags/individual-differences/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/individual-differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta-analysis</title>
+      <link>https://lmcl-umd.github.io./tags/meta-analysis/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/meta-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
       <link>https://lmcl-umd.github.io./tags/music/</link>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music and language</title>
+      <link>https://lmcl-umd.github.io./tags/music-and-language/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/music-and-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musical ability</title>
+      <link>https://lmcl-umd.github.io./tags/musical-ability/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/musical-ability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second language acquisition</title>
+      <link>https://lmcl-umd.github.io./tags/second-language-acquisition/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/second-language-acquisition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auditory</title>
+      <link>https://lmcl-umd.github.io./tags/auditory/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/auditory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entrainment</title>
+      <link>https://lmcl-umd.github.io./tags/entrainment/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/entrainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perturbation</title>
+      <link>https://lmcl-umd.github.io./tags/perturbation/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/perturbation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>https://lmcl-umd.github.io./tags/reading/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>https://lmcl-umd.github.io./tags/language/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/language/</guid>
       <description></description>
     </item>
     
@@ -197,34 +269,10 @@
     </item>
     
     <item>
-      <title>music and language</title>
-      <link>https://lmcl-umd.github.io./tags/music-and-language/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/music-and-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>musical development</title>
       <link>https://lmcl-umd.github.io./tags/musical-development/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/musical-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Individual differences</title>
-      <link>https://lmcl-umd.github.io./tags/individual-differences/</link>
-      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/individual-differences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Musical ability</title>
-      <link>https://lmcl-umd.github.io./tags/musical-ability/</link>
-      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/musical-ability/</guid>
       <description></description>
     </item>
     
@@ -305,14 +353,6 @@
       <link>https://lmcl-umd.github.io./tags/syntactic-category/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/syntactic-category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Auditory</title>
-      <link>https://lmcl-umd.github.io./tags/auditory/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/auditory/</guid>
       <description></description>
     </item>
     
@@ -825,14 +865,6 @@
       <link>https://lmcl-umd.github.io./tags/syntactic-processing/</link>
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/syntactic-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Second language acquisition</title>
-      <link>https://lmcl-umd.github.io./tags/second-language-acquisition/</link>
-      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/second-language-acquisition/</guid>
       <description></description>
     </item>
     
