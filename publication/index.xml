@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./publication/</link>
       <atom:link href="https://lmcl-umd.github.io./publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Publications</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Music and language: Milestones of development</title>
+      <title>Hearing a code-switch increases bilinguals’ attention to and memory for information</title>
+      <link>https://lmcl-umd.github.io./publication/2025salig/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2025salig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milestones in the development of music and language</title>
       <link>https://lmcl-umd.github.io./publication/2025brandt/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./publication/2025brandt/</guid>
