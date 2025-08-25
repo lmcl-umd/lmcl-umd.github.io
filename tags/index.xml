@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./tags/</link>
       <atom:link href="https://lmcl-umd.github.io./tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Tags</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>attention</title>
-      <link>https://lmcl-umd.github.io./tags/attention/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/attention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bilingualism</title>
       <link>https://lmcl-umd.github.io./tags/bilingualism/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/bilingualism/</guid>
       <description></description>
     </item>
@@ -31,15 +23,23 @@
     <item>
       <title>code-switching</title>
       <link>https://lmcl-umd.github.io./tags/code-switching/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/code-switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comprehension</title>
+      <link>https://lmcl-umd.github.io./tags/comprehension/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/comprehension/</guid>
       <description></description>
     </item>
     
     <item>
       <title>language comprehension</title>
       <link>https://lmcl-umd.github.io./tags/language-comprehension/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/language-comprehension/</guid>
       <description></description>
     </item>
@@ -47,8 +47,72 @@
     <item>
       <title>memory</title>
       <link>https://lmcl-umd.github.io./tags/memory/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executive functions</title>
+      <link>https://lmcl-umd.github.io./tags/executive-functions/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/executive-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual differences</title>
+      <link>https://lmcl-umd.github.io./tags/individual-differences/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/individual-differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-lab study</title>
+      <link>https://lmcl-umd.github.io./tags/multi-lab-study/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/multi-lab-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://lmcl-umd.github.io./tags/music/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music and language</title>
+      <link>https://lmcl-umd.github.io./tags/music-and-language/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/music-and-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musical ability</title>
+      <link>https://lmcl-umd.github.io./tags/musical-ability/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/musical-ability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>short-term memory</title>
+      <link>https://lmcl-umd.github.io./tags/short-term-memory/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/short-term-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attention</title>
+      <link>https://lmcl-umd.github.io./tags/attention/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/attention/</guid>
       <description></description>
     </item>
     
@@ -61,22 +125,6 @@
     </item>
     
     <item>
-      <title>music</title>
-      <link>https://lmcl-umd.github.io./tags/music/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music and language</title>
-      <link>https://lmcl-umd.github.io./tags/music-and-language/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/music-and-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>musical development</title>
       <link>https://lmcl-umd.github.io./tags/musical-development/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
@@ -85,26 +133,10 @@
     </item>
     
     <item>
-      <title>Individual differences</title>
-      <link>https://lmcl-umd.github.io./tags/individual-differences/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/individual-differences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>meta-analysis</title>
       <link>https://lmcl-umd.github.io./tags/meta-analysis/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/meta-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Musical ability</title>
-      <link>https://lmcl-umd.github.io./tags/musical-ability/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/musical-ability/</guid>
       <description></description>
     </item>
     
@@ -249,14 +281,6 @@
       <link>https://lmcl-umd.github.io./tags/code-switching-types/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/code-switching-types/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>comprehension</title>
-      <link>https://lmcl-umd.github.io./tags/comprehension/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/comprehension/</guid>
       <description></description>
     </item>
     
@@ -557,14 +581,6 @@
     </item>
     
     <item>
-      <title>short-term memory</title>
-      <link>https://lmcl-umd.github.io./tags/short-term-memory/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/short-term-memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>lexical retrieval</title>
       <link>https://lmcl-umd.github.io./tags/lexical-retrieval/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
@@ -585,14 +601,6 @@
       <link>https://lmcl-umd.github.io./tags/syntactic-formulation/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./tags/syntactic-formulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Executive functions</title>
-      <link>https://lmcl-umd.github.io./tags/executive-functions/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./tags/executive-functions/</guid>
       <description></description>
     </item>
     
