@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LMCL</title>
-    <link>https://lmcl-umd.github.io./authors/thompson/</link>
-      <atom:link href="https://lmcl-umd.github.io./authors/thompson/index.xml" rel="self" type="application/rss+xml" />
-    <description>LMCL</description>
+    <title>and many others) | LMCL</title>
+    <link>https://lmcl-umd.github.io./authors/and-many-others/</link>
+      <atom:link href="https://lmcl-umd.github.io./authors/and-many-others/index.xml" rel="self" type="application/rss+xml" />
+    <description>and many others)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
-      <title>LMCL</title>
-      <link>https://lmcl-umd.github.io./authors/thompson/</link>
+      <title>and many others)</title>
+      <link>https://lmcl-umd.github.io./authors/and-many-others/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://lmcl-umd.github.io./publication/2025grassi/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./publication/2025grassi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Is musical ability related to second-language acquisition? A meta-analysis</title>
-      <link>https://lmcl-umd.github.io./publication/2025thompson/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./publication/2025thompson/</guid>
       <description></description>
     </item>
     
