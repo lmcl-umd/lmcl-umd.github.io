@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./authors/</link>
       <atom:link href="https://lmcl-umd.github.io./authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Authors</title>
@@ -15,10 +15,35 @@
     <item>
       <title></title>
       <link>https://lmcl-umd.github.io./authors/bob/</link>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/bob/</guid>
       <description>&lt;p&gt;Bob Slevc is an Associate Professor in the &lt;a href=&#34;https://psyc.umd.edu&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program, the &lt;a href=&#34;http://languagescience.umd.edu&#34;&gt;Maryland Language Science Center&lt;/a&gt;, and the &lt;a href=&#34;https://ccebh.umd.edu/&#34;&gt;Center for Comparative and Evolutionary Biology of Hearing&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lmcl-umd.github.io./authors/marshall/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/marshall/</guid>
+      <description>&lt;p&gt;Kelly is a graduate student in NACS. Kelly graduated from Johns Hopkins University with a B.A. in Cognitive Science and Psychology and she completed her Master’s degree in Speech-Language Pathology at George Washington University. Her research interests include understanding the role of executive functions in dealing with linguistic uncertainty or ambiguity during language processing and how this may differ between healthy individuals those with language disorders.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Avery Vess</title>
+      <link>https://lmcl-umd.github.io./authors/avery-vess/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/avery-vess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jared M. Novick</title>
+      <link>https://lmcl-umd.github.io./authors/jared-m.-novick/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/jared-m.-novick/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -28,14 +53,6 @@
       <guid>https://lmcl-umd.github.io./authors/salig/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/rensalig&#34;&gt;Ren Salig&lt;/a&gt; completed her Ph.D. in &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; in May, 2024 (dissertation title: &lt;a href=&#34;https://doi.org/10.13016/1wqs-eoau&#34;&gt;&lt;i&gt;How bilinguals&amp;rsquo; comprehension of code-switches influences attention and memory&lt;/i&gt;&lt;/a&gt;). She is originally from Downingtown, Pennsylvania, received a bachelor&amp;rsquo;s degree in Psychology and Spanish from Elon University in 2017, and spent a year after graduation in Neuquén, Argentina teaching English on a Fulbright grant. She is currently a postdoc at the &lt;a href=&#34;https://lsa.umich.edu/psych/&#34;&gt;University of Michigan&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Jared M. Novick</title>
-      <link>https://lmcl-umd.github.io./authors/jared-m.-novick/</link>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/jared-m.-novick/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -688,15 +705,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/john/</guid>
       <description>&lt;p&gt;Kimberly John is a junior neuroscience major with minors in both rhetoric and journalism. She is interested in how humans process the world around them and how that influences their behavior and decision-making. She is also very interested in science communication, and is an editor for the &lt;a href=&#34;https://www.greymattersumd.org/&#34;&gt;Grey Matters Journal&lt;/a&gt;, UMD’s student run neuroscience publication. She hopes to make science more fun and accessible for everyone!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lmcl-umd.github.io./authors/marshall/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/marshall/</guid>
-      <description>&lt;p&gt;Kelly is a graduate student in NACS. Kelly graduated from Johns Hopkins University with a B.A. in Cognitive Science and Psychology and she completed her Master’s degree in Speech-Language Pathology at George Washington University. Her research interests include understanding the role of executive functions in dealing with linguistic uncertainty or ambiguity during language processing and how this may differ between healthy individuals those with language disorders.&lt;/p&gt;
 </description>
     </item>
     
