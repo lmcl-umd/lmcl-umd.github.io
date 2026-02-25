@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./authors/bob/</link>
       <atom:link href="https://lmcl-umd.github.io./authors/bob/index.xml" rel="self" type="application/rss+xml" />
     <description>LMCL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>LMCL</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Topic shifts elicit costs in naturalistic discourse: Evidence from healthy adults and individuals with traumatic brain injury</title>
       <link>https://lmcl-umd.github.io./publication/2026marshall/</link>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./publication/2026marshall/</guid>
       <description></description>
     </item>
@@ -25,6 +25,14 @@
       <link>https://lmcl-umd.github.io./publication/2026salig/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./publication/2026salig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Ensemble: A large dataset on musicianship, cognition, and personality in musicians and nonmusicians</title>
+      <link>https://lmcl-umd.github.io./publication/2026talamini/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2026talamini/</guid>
       <description></description>
     </item>
     
