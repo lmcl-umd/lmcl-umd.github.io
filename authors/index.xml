@@ -5,7 +5,7 @@
     <link>https://lmcl-umd.github.io./authors/</link>
       <atom:link href="https://lmcl-umd.github.io./authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>Authors</title>
@@ -13,20 +13,45 @@
     </image>
     
     <item>
+      <title></title>
+      <link>https://lmcl-umd.github.io./authors/bob/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/bob/</guid>
+      <description>&lt;p&gt;Bob Slevc is an Associate Professor in the &lt;a href=&#34;https://psyc.umd.edu&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program, the &lt;a href=&#34;http://languagescience.umd.edu&#34;&gt;Maryland Language Science Center&lt;/a&gt;, and the &lt;a href=&#34;https://ccebh.umd.edu/&#34;&gt;Center for Comparative and Evolutionary Biology of Hearing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lmcl-umd.github.io./authors/marshall/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/marshall/</guid>
+      <description>&lt;p&gt;Kelly is a graduate student in NACS. Kelly graduated from Johns Hopkins University with a B.A. in Cognitive Science and Psychology and she completed her Master’s degree in Speech-Language Pathology at George Washington University. Her research interests include understanding the role of executive functions in dealing with linguistic uncertainty or ambiguity during language processing and how this may differ between healthy individuals those with language disorders.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Avery Vess</title>
+      <link>https://lmcl-umd.github.io./authors/avery-vess/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/avery-vess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jared M. Novick</title>
+      <link>https://lmcl-umd.github.io./authors/jared-m.-novick/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./authors/jared-m.-novick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A.H. Tyner</title>
       <link>https://lmcl-umd.github.io./authors/a.h.-tyner/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/a.h.-tyner/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lmcl-umd.github.io./authors/bob/</link>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/bob/</guid>
-      <description>&lt;p&gt;Bob Slevc is an Associate Professor in the &lt;a href=&#34;https://psyc.umd.edu&#34;&gt;Department of Psychology&lt;/a&gt;, part of the &lt;a href=&#34;https://nacs.umd.edu&#34;&gt;Neuroscience and Cognitive Science&lt;/a&gt; program, the &lt;a href=&#34;http://languagescience.umd.edu&#34;&gt;Maryland Language Science Center&lt;/a&gt;, and the &lt;a href=&#34;https://ccebh.umd.edu/&#34;&gt;Center for Comparative and Evolutionary Biology of Hearing&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -59,31 +84,6 @@
       <link>https://lmcl-umd.github.io./authors/mia-c.-lulli/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://lmcl-umd.github.io./authors/mia-c.-lulli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lmcl-umd.github.io./authors/marshall/</link>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/marshall/</guid>
-      <description>&lt;p&gt;Kelly is a graduate student in NACS. Kelly graduated from Johns Hopkins University with a B.A. in Cognitive Science and Psychology and she completed her Master’s degree in Speech-Language Pathology at George Washington University. Her research interests include understanding the role of executive functions in dealing with linguistic uncertainty or ambiguity during language processing and how this may differ between healthy individuals those with language disorders.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Avery Vess</title>
-      <link>https://lmcl-umd.github.io./authors/avery-vess/</link>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/avery-vess/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jared M. Novick</title>
-      <link>https://lmcl-umd.github.io./authors/jared-m.-novick/</link>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://lmcl-umd.github.io./authors/jared-m.-novick/</guid>
       <description></description>
     </item>
     
